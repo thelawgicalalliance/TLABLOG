@@ -1,10 +1,1 @@
-[
- {
-  "slug": "pipeline-live-test.php",
-  "date": "2026-07-30",
-  "date_display": "30 July 2026",
-  "category": "Procedure & Practice",
-  "title": "Publishing Pipeline: Live Test",
-  "excerpt": "A one-off technical test confirming articles committed to the repository are published automatically."
- }
-]
+[]
