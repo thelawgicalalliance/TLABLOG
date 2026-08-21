@@ -59,7 +59,7 @@ $BODY = <<<'HTML'
 <p>For the profession, the decision draws a clean jurisdictional line while conveying an unmistakable message about decorum. Court complexes in Delhi are crowded, adversarial places; friction between counsel, parties and opponents is not rare. The Supreme Court's answer is that the profession's own machinery — not only the criminal law — polices behaviour there, and that the class of persons entitled to invoke it is wide.</p>
 <p>For litigants, the case is a reminder that a grievance about an advocate's conduct has a dedicated forum. A complaint to the State Bar Council costs nothing to institute, is examined by a disciplinary committee of peers, and follows a structured appellate path ending in the Supreme Court.</p>
 <div class="note">
-<p>The modification of the suspension to a warning was driven by the extraordinary delay — the Court expressly declined to send a twenty-one-year-old matter back for another round. The jurisdictional holding, however, is general: misconduct inside court premises is squarely within the Bar Council\'s reach.</p>
+<p>The modification of the suspension to a warning was driven by the extraordinary delay — the Court expressly declined to send a twenty-one-year-old matter back for another round. The jurisdictional holding, however, is general: misconduct inside court premises is squarely within the Bar Council's reach.</p>
 </div>
 
 <h2>Conclusion</h2>

@@ -27,7 +27,7 @@ $BODY = <<<'HTML'
 <p>The National Highways Authority of India awarded an engineering, procurement and construction contract in January 2024 for a section of an eight-lane expressway in Gujarat. Disputes over performance followed, and successive attempts at settlement in 2024 and 2025 did not resolve them. Termination notices issued in June and December 2025 culminated, after court proceedings, in termination of the contract in January 2026. In July 2026 the Authority issued a show cause notice proposing to declare the contractor a non-performer and to debar it — the step that triggered the interim relief application before the arbitral tribunal.</p>
 
 <h2>The order under challenge</h2>
-<p>On 30 July 2026 the tribunal, acting on the contractor\'s application under Section 17 of the Arbitration and Conciliation Act, 1996, granted ad-interim protection directing status quo — without hearing the Authority and without recording reasons. The Authority appealed to the High Court under Section 37(2)(b), which provides an appeal against orders granting or refusing interim measures under Section 17.</p>
+<p>On 30 July 2026 the tribunal, acting on the contractor's application under Section 17 of the Arbitration and Conciliation Act, 1996, granted ad-interim protection directing status quo — without hearing the Authority and without recording reasons. The Authority appealed to the High Court under Section 37(2)(b), which provides an appeal against orders granting or refusing interim measures under Section 17.</p>
 
 <h2>What the High Court held</h2>
 <p>The Court found the order unsustainable on its face. As the judgment records, the impugned order "is without any reasoning and no urgency or prima facie case is even considered." Two defects were decisive.</p>
@@ -45,9 +45,9 @@ $BODY = <<<'HTML'
 
 <h2>The wider point for arbitration users</h2>
 <p>Since the 2015 amendments, an order of a tribunal under Section 17 is enforceable in the same manner as an order of a court. With that power comes the corresponding discipline. This judgment aligns tribunal practice with what courts require of themselves when granting ex parte injunctions: urgency must be demonstrated and addressed, the classic trinity of injunction factors must be considered, and the reasoning must appear in the order itself. An unreasoned direction — even one as seemingly innocuous as "status quo" — can have serious commercial consequences, particularly where, as here, debarment from public procurement was in play.</p>
-<p>For parties resisting such orders, the decision confirms that Section 37(2)(b) offers a prompt remedy, and that the High Court will intervene where the tribunal\'s order does not disclose the minimum judicial reasoning. For parties seeking urgent protection, the lesson is to place before the tribunal, and invite it to record, the specific facts constituting urgency and the elements of a prima facie case — or risk winning an order that does not survive appeal.</p>
+<p>For parties resisting such orders, the decision confirms that Section 37(2)(b) offers a prompt remedy, and that the High Court will intervene where the tribunal's order does not disclose the minimum judicial reasoning. For parties seeking urgent protection, the lesson is to place before the tribunal, and invite it to record, the specific facts constituting urgency and the elements of a prima facie case — or risk winning an order that does not survive appeal.</p>
 <div class="note">
-  <p>The High Court\'s decision concerns the manner in which interim relief was granted and does not adjudicate the underlying contractual disputes, which remain before the arbitral tribunal. This article is for general information and is not legal advice.</p>
+  <p>The High Court's decision concerns the manner in which interim relief was granted and does not adjudicate the underlying contractual disputes, which remain before the arbitral tribunal. This article is for general information and is not legal advice.</p>
 </div>
 HTML;
 include __DIR__ . '/post-layout.php';

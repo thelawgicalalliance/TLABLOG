@@ -24,7 +24,7 @@ $P = [
 ];
 $BODY = <<<'HTML'
 <h2>The dispute</h2>
-<p>The landlord sought eviction under Section 14(1)(e) of the Delhi Rent Control Act, 1958 — the bona fide requirement ground — before the Additional Rent Controller. The tenants\' application for leave to defend was rejected after the Controller found on the record that summons had been duly served; the tenants\' case that they were out of town and that the process server\'s report was unreliable did not persuade the Controller. A review met the same fate in July 2026. The tenants then invoked the High Court\'s revisional jurisdiction under the proviso to Section 25B(8).</p>
+<p>The landlord sought eviction under Section 14(1)(e) of the Delhi Rent Control Act, 1958 — the bona fide requirement ground — before the Additional Rent Controller. The tenants' application for leave to defend was rejected after the Controller found on the record that summons had been duly served; the tenants' case that they were out of town and that the process server's report was unreliable did not persuade the Controller. A review met the same fate in July 2026. The tenants then invoked the High Court's revisional jurisdiction under the proviso to Section 25B(8).</p>
 
 <h2>The scheme in brief</h2>
 <div class="flow">
@@ -35,7 +35,7 @@ $BODY = <<<'HTML'
 
 <h2>What the High Court held</h2>
 <p>The Court dismissed the petition on the threshold question of scope. Its revisional power, it held, is supervisory: "the High Court is not expected to substitute and supplant its views with that of the trial court." Interference is reserved for jurisdictional error, manifest illegality, material irregularity or perversity — conclusions so unreasonable, or so founded on an erroneous premise, that no reasonable Controller could have reached them.</p>
-<p>Measured against that standard, the petition failed. Every objection now pressed — the validity of service, the discrepancies alleged in the process server\'s report, the tenants\' absence from town — had been examined by the Controller, and examined again in review. The Court declined the invitation to re-weigh that material in terms that deserve quotation: "What is sought, in substance, is a re-appreciation of the factual material... Such an exercise would amount to this Court assuming appellate jurisdiction, which is impermissible."</p>
+<p>Measured against that standard, the petition failed. Every objection now pressed — the validity of service, the discrepancies alleged in the process server's report, the tenants' absence from town — had been examined by the Controller, and examined again in review. The Court declined the invitation to re-weigh that material in terms that deserve quotation: "What is sought, in substance, is a re-appreciation of the factual material... Such an exercise would amount to this Court assuming appellate jurisdiction, which is impermissible."</p>
 
 <h2>Why the distinction matters</h2>
 <table class="law">
@@ -49,7 +49,7 @@ $BODY = <<<'HTML'
 
 <h2>Practice points</h2>
 <div class="check">
-  <p>Treat the leave-to-defend affidavit as the centrepiece of the tenant\'s case, not a formality. Contest service before the Controller with evidence, not assertion — the process server\'s report carries weight until displaced. And before filing a revision, test each proposed ground against the fourfold standard the Court applied; a revision that merely re-argues the facts invites dismissal.</p>
+  <p>Treat the leave-to-defend affidavit as the centrepiece of the tenant's case, not a formality. Contest service before the Controller with evidence, not assertion — the process server's report carries weight until displaced. And before filing a revision, test each proposed ground against the fourfold standard the Court applied; a revision that merely re-argues the facts invites dismissal.</p>
 </div>
 <div class="note">
   <p>This article summarises a published judgment of the High Court of Delhi for general information. It is not legal advice, and the outcome of any matter depends on its own facts.</p>
