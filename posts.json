@@ -1,978 +1,1154 @@
 [
- {
-  "slug": "up-gangsters-act-creates-no-offence-supreme-court.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Criminal Law",
-  "title": "The UP Gangsters Act Is “Stillborn”: It Punishes Without Creating an Offence",
-  "excerpt": "In Shiv Pratap Singh v. State of U.P., 2026 INSC 894, the Supreme Court holds that the UP Gangsters Act defines a gangster and prescribes punishment but never creates an offence, and quashes gang-chart prosecutions against two advocates."
- },
- {
-  "slug": "scst-act-public-view-enclosed-room-supreme-court.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Criminal Law",
-  "title": "Caste Abuse Inside an Enclosed Room Is Not “Within Public View”: Supreme Court",
-  "excerpt": "In Ramkrishna Chauhan v. State of U.P., 2026 INSC 895, the Supreme Court quashes charges under Sections 3(1)(r) and 3(1)(s) of the SC/ST Act where the alleged insult occurred in a closed school office, while the IPC prosecution continues."
- },
- {
-  "slug": "fir-after-rejection-156-3-application-supreme-court.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Criminal Law",
-  "title": "Rejection of a 156(3) Application Does Not Bar a Later FIR: Supreme Court",
-  "excerpt": "In Pramod Kumar Shukla v. State of U.P., 2026 INSC 887, the Supreme Court holds that a Magistrate’s threshold refusal to direct investigation is not res judicata against the police’s independent duty to register an FIR."
- },
- {
-  "slug": "pocso-cross-examination-child-witness-section-33-delhi-high-court.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Criminal Law",
-  "title": "POCSO Does Not Bar Cross-Examining a Child — It Regulates How: Delhi High Court",
-  "excerpt": "In Shankar Singh v. State, CRL.A. 662/2025, the Delhi High Court holds that Section 33 POCSO requires defence questions to be put to the child through the Special Court — not shut out — while upholding the conviction on the evidence."
- },
- {
-  "slug": "interim-ex-parte-orders-section-23-dv-act.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Matrimonial & Family",
-  "title": "Interim and Ex Parte Orders Under Section 23 of the DV Act",
-  "excerpt": "How Magistrates grant urgent interim and ex parte relief in domestic violence cases — the affidavit route, the full menu of interim reliefs, enforcement, and appeals under Section 29."
- },
- {
-  "slug": "monetary-relief-section-20-dv-act.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Matrimonial & Family",
-  "title": "Monetary Relief Under Section 20 of the DV Act: Wider Than Maintenance",
-  "excerpt": "Section 20 compensates lost earnings, medical expenses and property losses caused by domestic violence, over and above maintenance — and interacts with Section 144 BNSS and HMA maintenance through disclosure and adjustment."
- },
- {
-  "slug": "maintenance-for-parents-section-144-bnss-senior-citizens-act.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Matrimonial & Family",
-  "title": "Maintenance for Parents: Section 144 BNSS and the Senior Citizens Act",
-  "excerpt": "Two statutory routes for ageing parents — court-ordered maintenance under Section 144 BNSS and the faster Tribunal remedy under the 2007 Act, including the Section 23 power to void conditional property transfers."
- },
- {
-  "slug": "permanent-alimony-section-25-hindu-marriage-act.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Matrimonial & Family",
-  "title": "Permanent Alimony Under Section 25 of the Hindu Marriage Act",
-  "excerpt": "Who can claim permanent alimony, what courts weigh, lump sum versus monthly payments, and how orders are varied or rescinded on changed circumstances or remarriage."
- },
- {
-  "slug": "desertion-as-ground-for-divorce-hma.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Matrimonial & Family",
-  "title": "Desertion as a Ground for Divorce: What Section 13(1)(ib) Actually Requires",
-  "excerpt": "Two years of separate living is not enough — desertion requires factum, animus, absence of cause and consent, and can be interrupted by a genuine offer to return. How the ground is pleaded and proved."
- },
- {
-  "slug": "void-voidable-marriages-annulment-hma.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Matrimonial & Family",
-  "title": "Annulment Under the Hindu Marriage Act: Void and Voidable Marriages",
-  "excerpt": "Sections 11 and 12 HMA — bigamy, prohibited degrees, fraud, non-consummation and concealed pregnancy, the one-year limits, and the legitimacy of children under Section 16."
- },
- {
-  "slug": "interim-bail-when-courts-grant-it.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Criminal Law",
-  "title": "Interim Bail: Short-Term Liberty While the Main Application Is Decided",
-  "excerpt": "How Delhi courts grant time-bound release pending the regular bail decision or for medical and family emergencies — the grounds, the conditions, and the consequences of not surrendering."
- },
- {
-  "slug": "bail-conditions-what-courts-can-impose.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Criminal Law",
-  "title": "Bail Conditions: What Courts May Impose, and Where the Limits Lie",
-  "excerpt": "Conditions under Section 480(3) BNSS must secure attendance and protect the investigation — not punish. Cash deposits, onerous sureties and unrelated conditions, and how to seek modification."
- },
- {
-  "slug": "transit-anticipatory-bail-explained.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Criminal Law",
-  "title": "Transit Anticipatory Bail: Protection While You Reach the Right Court",
-  "excerpt": "When an FIR is registered in another State, limited pre-arrest protection from the courts where the accused resides bridges the journey to the competent court — the safeguards, conditions and drafting essentials."
- },
- {
-  "slug": "anticipatory-bail-matrimonial-cases-bns-85.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Criminal Law",
-  "title": "Anticipatory Bail in Matrimonial Cases: Section 85 BNS and the Arrest Safeguards",
-  "excerpt": "Cruelty complaints under BNS Section 85 (498A IPC) and pre-arrest protection — the Section 35 BNSS notice regime, how courts treat omnibus allegations against relatives, and the conditions that attach."
- },
- {
-  "slug": "msmed-act-interest-sections-15-17-delayed-payments.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "The Interest Engine of the MSMED Act: Sections 15, 16 and 17",
-  "excerpt": "The 45-day payment ceiling no contract can stretch, compound interest at three times the RBI bank rate with monthly rests, and the tax provisions — Section 23 MSMED and 43B(h) — that reinforce them."
- },
- {
-  "slug": "udyam-registration-msme-classification-remedies.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "Udyam Registration: The Gateway to MSME Remedies",
-  "excerpt": "The revised micro, small and medium thresholds effective 1 April 2025, why registration timing shapes a delayed-payment claim, and what MSME status unlocks — and does not."
- },
- {
-  "slug": "summary-judgment-order-13a-commercial-courts.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "Summary Judgment Under Order XIII-A: Deciding Commercial Suits Without Trial",
-  "excerpt": "The “no real prospect” test, the window between service of summons and framing of issues, conditional orders, and how summary judgment applications are fought in Delhi’s commercial courts."
- },
- {
-  "slug": "written-statement-120-day-limit-commercial-suits.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "The 120-Day Limit for Written Statements in Commercial Suits",
-  "excerpt": "In commercial suits the right to file a written statement stands forfeited after 120 days from service of summons, and courts cannot relax it — what forfeiture entails and the battlegrounds it has created."
- },
- {
-  "slug": "mandatory-reporting-pocso-sections-19-21.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Criminal Law",
-  "title": "The Duty to Report Under POCSO: Sections 19 to 22 Explained",
-  "excerpt": "POCSO criminalises silence: who must report child sexual offences, the personal liability of institutional heads under Section 21(2), and the good-faith and false-complaint safeguards."
- },
- {
-  "slug": "second-appeal-section-100-cpc-delhi.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Procedure & Practice",
-  "title": "Second Appeals Under Section 100 CPC: The Substantial Question of Law",
-  "excerpt": "What makes a question of law substantial, when concurrent findings can be disturbed for perversity, and the disciplines that decide Regular Second Appeals in the Delhi High Court."
- },
- {
-  "slug": "criminal-revision-delhi-high-court-bnss.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Procedure & Practice",
-  "title": "Criminal Revision Before the Delhi High Court: Sections 438 and 442 BNSS",
-  "excerpt": "The supervisory jurisdiction over subordinate criminal courts — which orders are revisable, the interlocutory bar, the one-revision rule, and how revision differs from Section 528 BNSS."
- },
- {
-  "slug": "slp-dismissal-effect-doctrine-of-merger.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Procedure & Practice",
-  "title": "Dismissal of an SLP: What It Decides, and What It Leaves Open",
-  "excerpt": "In limine dismissals, speaking orders and dismissals after leave carry very different consequences — the doctrine of merger, surviving remedies before the High Court, and the withdrawal wrinkle."
- },
- {
-  "slug": "condonation-of-delay-slp-supreme-court.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Procedure & Practice",
-  "title": "Condonation of Delay in SLPs: The 90 Days and What Comes After",
-  "excerpt": "Limitation for special leave petitions, the anatomy of a condonation application, the stricter scrutiny of government delay, and how delay and merits interact at admission."
- },
- {
-  "slug": "section-29a-arbitration-time-limit-extension.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "Section 29A: The Clock on Domestic Arbitral Awards",
-  "excerpt": "The twelve-month deadline from completion of pleadings, the six-month consent extension, and the court’s powers on extension applications — terms, fee reduction and substitution of arbitrators."
- },
- {
-  "slug": "section-8-reference-to-arbitration-civil-suit.php",
-  "date": "2026-08-21",
-  "date_display": "21 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "Section 8: When a Civil Suit Runs Into an Arbitration Clause",
-  "excerpt": "The mandatory reference to arbitration, the first-statement deadline, the prima facie test after the 2015 amendment, non-arbitrable disputes, and suits framed to escape the clause."
- },
- {
-  "slug": "default-bail-uapa-bnss-180-days-delhi-high-court.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Criminal Law",
-  "title": "UAPA Custody: 180 Days Survive BNSS – Advocate Manish Jha",
-  "excerpt": "A Delhi High Court Division Bench holds that the reference to Section 167 CrPC in Section 43D(2) UAPA must be read as Section 187 BNSS, preserving the 180-day investigation custody framework and denying default bail in the Red Fort blast case."
- },
- {
-  "slug": "gangsters-act-section-12-no-stay-other-trials-supreme-court.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Criminal Law",
-  "title": "Gangsters Act Cannot Stall a Trial: SC – Advocate Manish Jha",
-  "excerpt": "In Keshvendra Singh v. Shankar Singh, 2026 INSC 866, the Supreme Court holds that the priority clause in Section 12 of the UP Gangsters Act operates only when hearing dates clash — it does not freeze a pending murder trial."
- },
- {
-  "slug": "redacted-evidence-affidavits-reliance-ntpc-supreme-court.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "No Evidence by the Back Door: SC – Advocate Manish Jha",
-  "excerpt": "In Reliance Industries v. NTPC, 2026 INSC 862, the Supreme Court upholds the redaction of evidence affidavits that sought to reintroduce excluded internal documents through oral testimony, with costs of ten lakh rupees."
- },
- {
-  "slug": "spousal-parental-consortium-motor-accident-supreme-court.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Civil & Property",
-  "title": "Consortium for Adult Children: SC – Advocate Manish Jha",
-  "excerpt": "In Sameem Begum v. K. Venkat Swamy, 2026 INSC 864, the Supreme Court enhances a motor accident award, holding the widow and each adult child separately entitled to spousal and parental consortium."
- },
- {
-  "slug": "residence-orders-right-to-reside-dv-act.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Matrimonial & Family",
-  "title": "Residence Orders under the DV Act – Advocate Manish Jha",
-  "excerpt": "Section 17 of the Domestic Violence Act, 2005 gives every woman in a domestic relationship the right to reside in the shared household, irrespective of title. An explainer on residence orders under Section 19, interim relief under Section 23, and why possession — not ownership — is what these orders protect."
- },
- {
-  "slug": "appeals-under-section-29-dv-act-delhi.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Matrimonial & Family",
-  "title": "Appeals under Section 29 of the DV Act – Advocate Manish Jha",
-  "excerpt": "How orders under the Domestic Violence Act are challenged: the Section 29 appeal to the Court of Session within thirty days of service, the position on stay and condonation of delay, and the routes to the High Court thereafter."
- },
- {
-  "slug": "enforcing-maintenance-orders-delhi.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Matrimonial & Family",
-  "title": "Enforcing Maintenance Orders in Delhi – Advocate Manish Jha",
-  "excerpt": "What follows when a maintenance order is not obeyed: warrants, recovery as a fine and imprisonment under Section 144(3) BNSS, execution of Hindu Marriage Act orders as decrees, and direct payment by an employer under the DV Act."
- },
- {
-  "slug": "affidavit-of-assets-maintenance-rajnesh-neha.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Matrimonial & Family",
-  "title": "Affidavit of Assets in Maintenance Cases – Advocate Manish Jha",
-  "excerpt": "Since Rajnesh v. Neha made financial disclosure mandatory in maintenance proceedings, the affidavit of assets, income and expenditure decides most cases. What it must disclose, the recurring failure patterns, and the documents to annex."
- },
- {
-  "slug": "cruelty-ground-divorce-hindu-marriage-act.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Matrimonial & Family",
-  "title": "Cruelty as a Ground for Divorce – Advocate Manish Jha",
-  "excerpt": "What cruelty means under Section 13(1)(ia) of the Hindu Marriage Act, 1955: physical and mental cruelty, the cumulative course-of-conduct test, recognised patterns, pleading and proof, and condonation."
- },
- {
-  "slug": "transfer-of-matrimonial-cases-delhi.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Matrimonial & Family",
-  "title": "Transfer of Matrimonial Cases – Advocate Manish Jha",
-  "excerpt": "Where matrimonial petitions can be filed, and how a pending divorce, maintenance or custody case can be transferred - within Delhi under Section 24 CPC, and between States by the Supreme Court under Section 25 CPC or Section 446 BNSS."
- },
- {
-  "slug": "successive-bail-applications-change-in-circumstances.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Criminal Law",
-  "title": "Successive Bail Applications in India – Advocate Manish Jha",
-  "excerpt": "No statute bars a fresh bail application after rejection, but settled practice requires a substantial change in circumstances. What qualifies, what does not, the duty to disclose earlier applications, and how a successive application should be drafted."
- },
- {
-  "slug": "anticipatory-bail-section-482-bnss.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Criminal Law",
-  "title": "Anticipatory Bail under Section 482 BNSS – Advocate Manish Jha",
-  "excerpt": "Anticipatory bail now rests in Section 482 of the BNSS, 2023, which replaced Section 438 CrPC. A practice note on the forum, the statutory conditions and exclusions, and how long the protection lasts."
- },
- {
-  "slug": "anticipatory-bail-conditions-and-cancellation.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Criminal Law",
-  "title": "Anticipatory Bail: Life After the Order – Advocate Manish Jha",
-  "excerpt": "What an anticipatory bail order requires after it is granted: the conditions under Section 482(2) BNSS, the meaning of cooperation with the investigation, and the grounds on which the protection can be cancelled under Section 483(3) BNSS."
- },
- {
-  "slug": "bail-in-pocso-cases-delhi.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Criminal Law",
-  "title": "Bail in POCSO Cases: Law and Practice – Advocate Manish Jha",
-  "excerpt": "POCSO cases are tried by designated Special Courts, and bail remains a matter of judicial discretion under the BNSS. An explanation of the statutory presumptions, the factors courts weigh, and the conditions typically imposed."
- },
- {
-  "slug": "pocso-trial-child-witness-protections.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Criminal Law",
-  "title": "Child Witness Protection in POCSO Trials – Advocate Manish Jha",
-  "excerpt": "The statutory safeguards that follow a child witness from the first report to the final deposition under the POCSO Act: how statements are recorded, how identity is protected, how the Special Court conducts the trial, and the compensation framework."
- },
- {
-  "slug": "suspension-of-sentence-pending-appeal-delhi.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Criminal Law",
-  "title": "Suspension of Sentence Pending Appeal – Advocate Manish Jha",
-  "excerpt": "After conviction, liberty pending appeal depends on suspension of the execution of the sentence under Section 430 BNSS, formerly Section 389 CrPC. A note on the forum, the factors courts weigh, conditions of release and surrender on dismissal."
- },
- {
-  "slug": "rfa-fao-lpa-appeals-delhi-high-court.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Procedure & Practice",
-  "title": "RFA, FAO, RSA and LPA: Civil Appeals – Advocate Manish Jha",
-  "excerpt": "A practice note mapping civil appeals in the Delhi High Court: RFA under Section 96 CPC, FAO under Order XLIII, RSA on a substantial question of law, LPA to a Division Bench, and Section 13 commercial appeals, with limitation and stay."
- },
- {
-  "slug": "special-leave-petition-article-136-guide.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Procedure & Practice",
-  "title": "Special Leave Petitions under Article 136 – Advocate Manish Jha",
-  "excerpt": "The special leave petition is not an appeal but a request for the Supreme Court's discretionary leave. A practice note on when it lies, the ninety and sixty day limitation, filing through an Advocate-on-Record, and what happens at the motion hearing."
- },
- {
-  "slug": "after-leave-granted-supreme-court-appeal.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Procedure & Practice",
-  "title": "After Leave: SLP to Appeal in Court – Advocate Manish Jha",
-  "excerpt": "Once the Supreme Court grants leave, a Special Leave Petition is registered as a civil or criminal appeal and heard on merits. A practice note on pleadings, interim arrangements, final hearing, merger, review and the curative petition."
- },
- {
-  "slug": "msme-delayed-payment-recovery-samadhaan.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "MSME Delayed Payment Recovery – Advocate Manish Jha",
-  "excerpt": "The MSMED Act, 2006 caps credit periods at forty-five days, imposes compound interest at three times the bank rate on default, and lets micro and small suppliers refer disputes to the Facilitation Council through the MSME Samadhaan portal."
- },
- {
-  "slug": "challenging-msme-facilitation-council-award.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "Challenging an MSME Council Award – Advocate Manish Jha",
-  "excerpt": "An award of the MSE Facilitation Council can only be challenged under Section 34 of the Arbitration Act, and Section 19 of the MSMED Act bars the court from entertaining the challenge unless the buyer deposits 75 per cent of the awarded amount, part of which may be released to the supplier pending decision."
- },
- {
-  "slug": "pre-institution-mediation-section-12a-commercial-courts.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "Pre-suit mediation under Section 12A – Advocate Manish Jha",
-  "excerpt": "Section 12A of the Commercial Courts Act makes pre-institution mediation mandatory for commercial suits that contemplate no urgent interim relief. How the process works, its timelines, and what a settlement is worth."
- },
- {
-  "slug": "appointment-of-arbitrator-section-11-delhi.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "Appointing an Arbitrator: Section 11 – Advocate Manish Jha",
-  "excerpt": "How an arbitral tribunal is put in place: the notice under Section 21 that commences proceedings, the agreed appointment procedure, and the court's role under Section 11 of the Arbitration and Conciliation Act, 1996, with Delhi practice in view."
- },
- {
-  "slug": "enforcement-stay-arbitral-award-section-36.php",
-  "date": "2026-08-20",
-  "date_display": "20 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "Enforcing Arbitral Awards: Section 36 – Advocate Manish Jha",
-  "excerpt": "How a domestic arbitral award is enforced as a decree under Section 36 of the Arbitration and Conciliation Act, 1996 — the end of the automatic stay, the conditions on which courts stay money awards, and the mechanics of execution under Order XXI CPC."
- },
- {
-  "slug": "life-imprisonment-concurrent-sentences-supreme-court.php",
-  "date": "2026-08-19",
-  "date_display": "19 August 2026",
-  "category": "Criminal Law",
-  "title": "Life Term Means Concurrent Sentences – Advocate Manish Jha",
-  "excerpt": "In Gopi @ Sahaya Puruna v. The State (2026 INSC 880) the Supreme Court held that fixed-term sentences must run concurrently with life imprisonment, and that an appellate court cannot enhance a sentence in an appeal filed only by the convict."
- },
- {
-  "slug": "insurance-advance-premium-section-64vb-supreme-court.php",
-  "date": "2026-08-19",
-  "date_display": "19 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "No Premium, No Risk: S.64VB Explained – Advocate Manish Jha",
-  "excerpt": "Setting aside an NCDRC award of over ₹22 crore in New India Assurance v. Louis Dreyfus Commodities (2026 INSC 876), the Supreme Court held an insurer bears no risk beyond the sum insured unless the additional premium is paid in advance — and neither an official's email nor estoppel can override Section 64VB."
- },
- {
-  "slug": "interim-maintenance-wife-qualifications-delhi-high-court.php",
-  "date": "2026-08-19",
-  "date_display": "19 August 2026",
-  "category": "Matrimonial & Family",
-  "title": "Interim Maintenance: Not Income Alone – Advocate Manish Jha",
-  "excerpt": "In Ashutosh Rai Asthana v. Yamita Rai Asthana (CRL.REV.P.(MAT.) 122/2024, decided 11 August 2026), the Delhi High Court reduced interim maintenance from ₹30,000 to ₹25,000, holding the quantum cannot rest solely on the husband's income while ignoring the wife's qualifications, income and assets."
- },
- {
-  "slug": "consumer-complaint-procedure-delhi-consumer-commissions.php",
-  "date": "2026-08-19",
-  "date_display": "19 August 2026",
-  "category": "Procedure & Practice",
-  "title": "Filing a Consumer Complaint in Delhi – Advocate Manish Jha",
-  "excerpt": "A practical guide to consumer complaints under the Consumer Protection Act, 2019: choosing the right commission, e-Daakhil filing, limitation, evidence, mediation, appeals and execution in Delhi."
- },
- {
-  "slug": "reprimand-not-abetment-of-suicide-supreme-court.php",
-  "date": "2026-08-18",
-  "date_display": "18 August 2026",
-  "category": "Criminal Law",
-  "title": "Reprimand Is Not Abetment: SC – Advocate Manish Jha",
-  "excerpt": "Discharging a senior forest officer accused under Section 306 IPC, the Supreme Court held that administrative supervision and reprimands are not abetment of suicide absent a proximate instigating act and intent."
- },
- {
-  "slug": "proving-a-will-attesting-witness-sections-68-69-supreme-court.php",
-  "date": "2026-08-18",
-  "date_display": "18 August 2026",
-  "category": "Civil & Property",
-  "title": "Proving a Will: S.68 & 69 Explained – Advocate Manish Jha",
-  "excerpt": "In Pazhanathal v. Alamathal (2026 INSC 860) the Supreme Court held Section 69 of the Evidence Act opens only when proof through an attesting witness is impossible — registration of a will is no shortcut."
- },
- {
-  "slug": "ndps-bail-fake-sureties-directions-supreme-court.php",
-  "date": "2026-08-18",
-  "date_display": "18 August 2026",
-  "category": "Criminal Law",
-  "title": "Fake Sureties in NDPS Bail: SC – Advocate Manish Jha",
-  "excerpt": "Cancelling bail obtained on a fictitious surety in a commercial-quantity heroin case, the Supreme Court issued Article 142 directions on passport deposit, FRRO registration and pre-release verification of sureties."
- },
- {
-  "slug": "drowning-not-murder-post-incident-conduct-supreme-court.php",
-  "date": "2026-08-18",
-  "date_display": "18 August 2026",
-  "category": "Criminal Law",
-  "title": "Conduct Alone Cannot Convict: SC – Advocate Manish Jha",
-  "excerpt": "In Taher Vajiyuddin Rangwala v. State of Gujarat (2026 INSC 859) the Supreme Court acquitted two men convicted of murder, holding post-incident conduct cannot prove homicide where evidence points to accidental drowning."
- },
- {
-  "slug": "pocso-teacher-conviction-upheld-delhi-high-court.php",
-  "date": "2026-08-17",
-  "date_display": "17 August 2026",
-  "category": "Criminal Law",
-  "title": "POCSO Conviction of a Teacher Upheld – Advocate Manish Jha",
-  "excerpt": "In Netram Kumar v. State of NCT of Delhi (CRL.A. 573/2026, decided 12 August 2026), the Delhi High Court upheld a drawing teacher's conviction under Section 10 POCSO — a worked example of child testimony, the Section 29 presumption, and a school's duty to report."
- },
- {
-  "slug": "motor-accident-compensation-legal-representatives-supreme-court.php",
-  "date": "2026-08-17",
-  "date_display": "17 August 2026",
-  "category": "Civil & Property",
-  "title": "Accident Claims Without Dependency: SC – Advocate Manish Jha",
-  "excerpt": "In Sameem Begum v. K. Venkat Swamy (2026 INSC 864), the Supreme Court held that legal representatives may claim motor accident compensation without proving dependency, and awarded consortium of ₹48,400 to the widow and each of three children."
- },
- {
-  "slug": "obstructing-civil-trial-costs-supreme-court.php",
-  "date": "2026-08-17",
-  "date_display": "17 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "Obstructing a Trial Has a Price: SC – Advocate Manish Jha",
-  "excerpt": "In Reliance Industries Ltd. v. NTPC Ltd. (2026 INSC 862), the Supreme Court held that final evidentiary rulings cannot be reopened through oral testimony, upheld redaction of witness affidavits, and imposed ₹10 lakh costs for two decades of obstruction."
- },
- {
-  "slug": "execution-of-decree-delhi-courts.php",
-  "date": "2026-08-17",
-  "date_display": "17 August 2026",
-  "category": "Procedure & Practice",
-  "title": "Executing a Decree in Delhi Courts – Advocate Manish Jha",
-  "excerpt": "A decree is only a right on paper until executed. A practical walkthrough of Order XXI CPC in Delhi — where to file, modes of execution, Section 47 objections, asset disclosure, and the twelve-year limitation under Article 136."
- },
- {
-  "slug": "ndps-section-42-substantial-compliance-supreme-court.php",
-  "date": "2026-08-16",
-  "date_display": "16 August 2026",
-  "category": "Criminal Law",
-  "title": "Section 42 NDPS: Substance Over Form – Advocate Manish Jha",
-  "excerpt": "Upholding a conviction for 200 kg of poppy husk, the Supreme Court in Kashmir Ram v. State of Punjab (2026 INSC 854) explained when substantial compliance with Section 42 NDPS Act suffices — and when its breach remains fatal."
- },
- {
-  "slug": "agreement-to-sell-tenancy-surrender-supreme-court.php",
-  "date": "2026-08-16",
-  "date_display": "16 August 2026",
-  "category": "Civil & Property",
-  "title": "Agreement to Sell Does Not End a Tenancy – Advocate Manish Jha",
-  "excerpt": "In Nazim Shaikh Hasan v. Nasir Mushtaq Shaikh (2026 INSC 853), the Supreme Court held that an agreement to sell between landlord and tenant does not by itself determine the tenancy, and unregistered agreements offer no part-performance shield."
- },
- {
-  "slug": "juvenility-conviction-sentence-supreme-court.php",
-  "date": "2026-08-16",
-  "date_display": "16 August 2026",
-  "category": "Criminal Law",
-  "title": "Juvenility Found Late: What Survives? – Advocate Manish Jha",
-  "excerpt": "In Dinesh Kumar v. State of Haryana (2026 INSC 842), a juvenility finding placed on record decades after a 1998 murder left the conviction intact — but every adult sentence was set aside as incapable of operating."
- },
- {
-  "slug": "bail-when-trial-evidence-weakens-delhi-high-court.php",
-  "date": "2026-08-16",
-  "date_display": "16 August 2026",
-  "category": "Criminal Law",
-  "title": "Bail When Trial Evidence Weakens: DHC – Advocate Manish Jha",
-  "excerpt": "Two Delhi High Court orders of 13 August 2026 granted bail in a stabbing and a firing case after the trial record itself weakened the prosecution — a complainant who resiled and a ballistics report matching a different weapon."
- },
- {
-  "slug": "anticipatory-bail-fraud-firs-two-orders-delhi-high-court.php",
-  "date": "2026-08-15",
-  "date_display": "15 August 2026",
-  "category": "Criminal Law",
-  "title": "Anticipatory Bail in Fraud FIRs – Advocate Manish Jha",
-  "excerpt": "Two Delhi High Court orders of 13 and 14 August 2026 — one refusing anticipatory bail in a ₹1.65 crore gold fraud, the other directing notice before arrest in an online investment scam — show that pre-arrest protection turns on the state of the evidence and the real need for custody."
- },
- {
-  "slug": "cheque-bounce-resigned-director-section-141-delhi-high-court.php",
-  "date": "2026-08-15",
-  "date_display": "15 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "Cheque Cases and Resigned Directors – Advocate Manish Jha",
-  "excerpt": "The Delhi High Court quashed four cheque bounce complaints against a director who had resigned before the cheques were issued, holding that Section 141 NI Act requires specific averments of role and yields to unimpeachable ROC records."
- },
- {
-  "slug": "gst-advocates-insolvency-professionals-delhi-high-court.php",
-  "date": "2026-08-15",
-  "date_display": "15 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "GST for Insolvency Professionals – Advocate Manish Jha",
-  "excerpt": "A Division Bench held that an advocate acting as an interim resolution professional supplies insolvency and receivership services taxable on forward charge — the reverse charge dispensation covers only legal services rendered as counsel."
- },
- {
-  "slug": "child-custody-petitions-delhi-family-courts-procedure.php",
-  "date": "2026-08-15",
-  "date_display": "15 August 2026",
-  "category": "Matrimonial & Family",
-  "title": "Child Custody in Delhi Family Courts – Advocate Manish Jha",
-  "excerpt": "A practice guide to guardianship and custody petitions in the Delhi Family Courts: statutes, jurisdiction, interim visitation, counselling and mediation, evidence, final orders and appeals."
- },
- {
-  "slug": "ndps-bail-evidence-and-delay-delhi-high-court.php",
-  "date": "2026-08-14",
-  "date_display": "14 August 2026",
-  "category": "Criminal Law",
-  "title": "NDPS Bail: Two Delhi HC Orders – Advocate Manish Jha",
-  "excerpt": "On 12 August 2026 the Delhi High Court granted bail in two NDPS cases from the same investigation — one because call records and co-accused disclosures alone could not establish complicity, the other because custody of almost five years with 8 of 22 witnesses examined violated the right to a speedy trial."
- },
- {
-  "slug": "notice-before-arrest-anticipatory-bail-delhi-high-court.php",
-  "date": "2026-08-14",
-  "date_display": "14 August 2026",
-  "category": "Criminal Law",
-  "title": "Notice Before Arrest: Delhi HC – Advocate Manish Jha",
-  "excerpt": "Where the accused had joined the investigation and the IO saw no present need to arrest, the Delhi High Court disposed of an anticipatory bail plea by directing two weeks' prior notice before any arrest, preserving recourse to the Sessions Court."
- },
- {
-  "slug": "section-34-arbitration-scope-sterlite-delhi-high-court.php",
-  "date": "2026-08-14",
-  "date_display": "14 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "Section 34 Is Not an Appeal: DHC – Advocate Manish Jha",
-  "excerpt": "Dismissing the Union of India's challenge to an award that quashed a Rs 8.55 crore telecom demand against Sterlite Technologies, the Delhi High Court restated that a plausible arbitral view cannot be substituted under Section 34."
- },
- {
-  "slug": "transfer-of-suit-section-24-cpc-delhi-high-court.php",
-  "date": "2026-08-14",
-  "date_display": "14 August 2026",
-  "category": "Civil & Property",
-  "title": "Transfer of a Suit for Bias: DHC – Advocate Manish Jha",
-  "excerpt": "The Delhi High Court dismissed a Section 24 CPC petition to transfer a commercial suit, holding that oral observations during hearings, without any adverse adjudication, cannot establish bias — and imposed Rs 25,000 costs."
- },
- {
-  "slug": "domestic-violence-case-procedure-delhi-courts.php",
-  "date": "2026-08-14",
-  "date_display": "14 August 2026",
-  "category": "Matrimonial & Family",
-  "title": "How a DV Case Proceeds in Delhi – Advocate Manish Jha",
-  "excerpt": "The Section 12 application, the Domestic Incident Report, ex parte interim orders and the five reliefs — how a case under the Protection of Women from Domestic Violence Act, 2005 moves through the Delhi Magistrate Courts."
- },
- {
-  "slug": "alibi-quashing-fir-official-records-supreme-court.php",
-  "date": "2026-08-13",
-  "date_display": "13 August 2026",
-  "category": "Criminal Law",
-  "title": "Alibi and Quashing an FIR: Supreme Court – Advocate Manish Jha",
-  "excerpt": "In Rahul v. State of Uttar Pradesh, 2026 INSC 825, the Supreme Court quashed a dowry death prosecution on the strength of BSF service records, holding there is no inflexible rule that an alibi can be proved only at trial."
- },
- {
-  "slug": "composite-appeal-suit-counterclaim-supreme-court.php",
-  "date": "2026-08-13",
-  "date_display": "13 August 2026",
-  "category": "Procedure & Practice",
-  "title": "One Appeal for Suit and Counterclaim: SC – Advocate Manish Jha",
-  "excerpt": "In Basudev v. Sanjay Kumar, 2026 INSC 831, the Supreme Court holds that a common judgment deciding a suit and a counterclaim can be challenged in one composite appeal, framed and court-fee stamped as two."
- },
- {
-  "slug": "section-9-interim-relief-after-award-supreme-court.php",
-  "date": "2026-08-13",
-  "date_display": "13 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "Section 9 Relief After an Award: SC – Advocate Manish Jha",
-  "excerpt": "In NPCC v. Ishvakoo, 2026 INSC 828, the Supreme Court holds that even the party which lost the arbitration may obtain interim protection under Section 9 in rare and compelling cases, upholding a Rs 3.5 crore deposit."
- },
- {
-  "slug": "mutual-consent-divorce-delhi-family-courts-procedure.php",
-  "date": "2026-08-13",
-  "date_display": "13 August 2026",
-  "category": "Matrimonial & Family",
-  "title": "Mutual Consent Divorce in Delhi Courts – Advocate Manish Jha",
-  "excerpt": "The joint petition, the first and second motions, the six-month period and when it can be waived — how a mutual consent divorce actually proceeds in the Family Courts of Delhi."
- },
- {
-  "slug": "pmla-bail-compromise-predicate-offence-delhi-high-court.php",
-  "date": "2026-08-11",
-  "date_display": "11 August 2026",
-  "category": "Criminal Law",
-  "title": "PMLA Bail After a Compromise: Delhi HC – Advocate Manish Jha",
-  "excerpt": "On 10 August 2026 the Delhi High Court refused bail in a money laundering case, holding that a compromise in the predicate offence does not erase PMLA proceedings and applying the Section 45 twin conditions."
- },
- {
-  "slug": "appeal-against-acquittal-354a-pocso-delhi-high-court.php",
-  "date": "2026-08-11",
-  "date_display": "11 August 2026",
-  "category": "Criminal Law",
-  "title": "Acquittal Reversed Under S.354A: Delhi HC – Advocate Manish Jha",
-  "excerpt": "The Delhi High Court reversed a 2016 acquittal, convicting under Section 354A IPC while holding POCSO inapplicable for want of proof of age — with directions on dignity in cross-examination."
- },
- {
-  "slug": "rent-control-revision-scope-section-25b8-delhi-high-court.php",
-  "date": "2026-08-11",
-  "date_display": "11 August 2026",
-  "category": "Civil & Property",
-  "title": "Rent Control Revisions: A Narrow Door – Advocate Manish Jha",
-  "excerpt": "A tenant's challenge to an eviction order fails as the Delhi High Court restates the supervisory, non-appellate scope of revision under Section 25B(8) of the Delhi Rent Control Act."
- },
- {
-  "slug": "ex-parte-interim-order-arbitration-section-17-delhi-high-court.php",
-  "date": "2026-08-11",
-  "date_display": "11 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "Ex Parte Interim Orders in Arbitration – Advocate Manish Jha",
-  "excerpt": "The Delhi High Court set aside an unreasoned ex parte status quo order of an arbitral tribunal under Section 37(2)(b), restating what interim relief under Section 17 requires."
- },
- {
-  "slug": "bail-murder-two-orders-delhi-high-court.php",
-  "date": "2026-08-10",
-  "date_display": "10 August 2026",
-  "category": "Criminal Law",
-  "title": "Bail in Murder Trials: Two Delhi HC Orders – Advocate Manish Jha",
-  "excerpt": "On 7 August 2026 the same bench refused bail in one murder case and granted it in another. What the contrasting orders teach about evidence, parity and long custody."
- },
- {
-  "slug": "quashing-firs-after-settlement-delhi-high-court.php",
-  "date": "2026-08-10",
-  "date_display": "10 August 2026",
-  "category": "Criminal Law",
-  "title": "Quashing FIRs After Settlement: Delhi HC – Advocate Manish Jha",
-  "excerpt": "The Delhi High Court quashed cross-FIRs from a road rage incident after the parties settled, subject to costs of Rs. 20,000 each. How compromise quashing works under the BNS and BNSS."
- },
- {
-  "slug": "discharge-498a-concurrent-findings-delhi-high-court.php",
-  "date": "2026-08-10",
-  "date_display": "10 August 2026",
-  "category": "Matrimonial & Family",
-  "title": "When a 498A Discharge Stands: Delhi HC – Advocate Manish Jha",
-  "excerpt": "Two courts found no ground to frame charges in a 498A IPC prosecution, and the Delhi High Court declined a third look. What discharge means and why concurrent findings are hard to reopen."
- },
- {
-  "slug": "anti-suit-injunction-family-court-appeal-delhi-high-court.php",
-  "date": "2026-08-10",
-  "date_display": "10 August 2026",
-  "category": "Matrimonial & Family",
-  "title": "Anti-Suit Injunctions in Divorce: Delhi HC – Advocate Manish Jha",
-  "excerpt": "A Family Court restrained a husband from pursuing divorce proceedings in New Jersey. The Delhi High Court holds such an interim order appealable under Section 19 of the Family Courts Act."
- },
- {
-  "slug": "enemy-property-plea-eviction-delhi-high-court.php",
-  "date": "2026-08-10",
-  "date_display": "10 August 2026",
-  "category": "Civil & Property",
-  "title": "Enemy Property Plea and Eviction: Delhi HC – Advocate Manish Jha",
-  "excerpt": "Tenants resisting eviction claimed the premises were enemy property vesting in the Government. The Delhi High Court explains why a landlord needs only a better title than the tenant."
- },
- {
-  "slug": "marking-exhibit-not-proof-of-contents-supreme-court.php",
-  "date": "2026-08-09",
-  "date_display": "9 August 2026",
-  "category": "Procedure & Practice",
-  "title": "Marking an Exhibit Is Not Proof: SC – Advocate Manish Jha",
-  "excerpt": "In S. Sangeetha v. Tmt. P. Ponni, 2026 INSC 813, the Supreme Court reiterates that an exhibit mark does not prove a document's contents, and cautions against rejecting documents at the threshold of a trial."
- },
- {
-  "slug": "preventive-detention-right-to-represent-supreme-court.php",
-  "date": "2026-08-09",
-  "date_display": "9 August 2026",
-  "category": "Criminal Law",
-  "title": "Preventive Detention Safeguards: SC – Advocate Manish Jha",
-  "excerpt": "In Alfiya A v. State of Kerala, 2026 INSC 810, the Supreme Court quashed a PITNDPS detention because the detenu was never told of his right to represent directly to the detaining authority."
- },
- {
-  "slug": "ndps-commercial-quantity-bail-section-37-delhi-high-court.php",
-  "date": "2026-08-09",
-  "date_display": "9 August 2026",
-  "category": "Criminal Law",
-  "title": "NDPS Bail and Section 37 Conditions – Advocate Manish Jha",
-  "excerpt": "Dismissing bail in a commercial quantity heroin case at IGI Airport, the Delhi High Court restates the twin conditions of Section 37 NDPS Act and why procedural objections rarely open that gate."
- },
- {
-  "slug": "overlapping-maintenance-adjustment-delhi-high-court.php",
-  "date": "2026-08-09",
-  "date_display": "9 August 2026",
-  "category": "Matrimonial & Family",
-  "title": "Maintenance Under Two Statutes – Advocate Manish Jha",
-  "excerpt": "The Delhi High Court modified a Family Court interim maintenance order to adjust an existing Domestic Violence Act award, so the wife receives one consolidated sum rather than overlapping payments."
- },
- {
-  "slug": "sole-testimony-prosecutrix-conviction-upheld-delhi-high-court.php",
-  "date": "2026-08-09",
-  "date_display": "9 August 2026",
-  "category": "Criminal Law",
-  "title": "Testimony of a Prosecutrix: Delhi HC – Advocate Manish Jha",
-  "excerpt": "Upholding a rape conviction, the Delhi High Court explains why minor omissions do not demolish credible testimony, why belated medical silence proves little, and what a plea of alibi requires."
- },
- {
-  "slug": "successive-anticipatory-bail-applications-delhi-high-court.php",
-  "date": "2026-08-08",
-  "date_display": "8 August 2026",
-  "category": "Criminal Law",
-  "title": "Successive Anticipatory Bail Pleas – Advocate Manish Jha",
-  "excerpt": "The Delhi High Court dismissed a third anticipatory bail application where the Supreme Court had already declined relief and nothing had changed since — and flagged the police failure to arrest."
- },
- {
-  "slug": "sanction-former-public-servants-2018-amendment-delhi-high-court.php",
-  "date": "2026-08-08",
-  "date_display": "8 August 2026",
-  "category": "Criminal Law",
-  "title": "Sanction for Former Public Servants – Advocate Manish Jha",
-  "excerpt": "A Division Bench answers a criminal reference: the 2018 amendment to Section 19 PC Act protects retired public servants, but only where cognizance was yet to be taken as on 26 July 2018."
- },
- {
-  "slug": "maggi-food-safety-prosecutions-quashed-delhi-high-court.php",
-  "date": "2026-08-08",
-  "date_display": "8 August 2026",
-  "category": "Criminal Law",
-  "title": "Food Safety Cases: The Maggi Quashing – Advocate Manish Jha",
-  "excerpt": "The Delhi High Court quashed the 2015 Maggi noodles prosecutions after referral laboratory testing and a decade of judicial scrutiny discredited the analyst reports at their foundation."
- },
- {
-  "slug": "seat-venue-exclusive-jurisdiction-section-9-delhi-high-court.php",
-  "date": "2026-08-08",
-  "date_display": "8 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "Seat, Venue and Section 9 Courts – Advocate Manish Jha",
-  "excerpt": "An exclusive jurisdiction clause in favour of Jaipur reduced Delhi to a mere venue, and a Section 9 petition for interim measures was dismissed at the threshold."
- },
- {
-  "slug": "succession-certificate-procedure-delhi-district-courts.php",
-  "date": "2026-08-08",
-  "date_display": "8 August 2026",
-  "category": "Procedure & Practice",
-  "title": "Succession Certificate in Delhi Courts – Advocate Manish Jha",
-  "excerpt": "What a succession certificate covers, where the petition is filed, and the stages between filing and grant in the Delhi district courts."
- },
- {
-  "slug": "non-signatory-arbitration-veritable-party-supreme-court.php",
-  "date": "2026-08-07",
-  "date_display": "7 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "Non-Signatories and Arbitration: SC – Advocate Manish Jha",
-  "excerpt": "In KKH Finvest Pvt. Ltd. v. Ashiesh Shukla (2026 INSC 803), the Supreme Court holds that a consultant-shareholder who never signed the settlement was a veritable party to its arbitration clause, applying Cox and Kings."
- },
- {
-  "slug": "uapa-extension-order-not-appealable-nia-act-delhi-high-court.php",
-  "date": "2026-08-07",
-  "date_display": "7 August 2026",
-  "category": "Criminal Law",
-  "title": "UAPA Extension Orders: No Appeal Lies – Advocate Manish Jha",
-  "excerpt": "A Delhi High Court Division Bench holds that an order extending UAPA investigation time under Section 43D(2)(b) is interlocutory and not appealable under Section 21 NIA Act; the remedy is Section 482 CrPC / Section 528 BNSS."
- },
- {
-  "slug": "section-34-deposit-not-payment-ibc-clean-slate-delhi-high-court.php",
-  "date": "2026-08-07",
-  "date_display": "7 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "A Court Deposit Is Not Payment: Delhi HC – Advocate Manish Jha",
-  "excerpt": "A Section 34 stay deposit remains the depositor's asset. An award-holder that skipped the insolvency process saw its claim extinguished, and the Rs 5.52 crore deposit returned to the resolved company."
- },
- {
-  "slug": "advocate-conduct-court-premises-bar-council-supreme-court.php",
-  "date": "2026-08-07",
-  "date_display": "7 August 2026",
-  "category": "Procedure & Practice",
-  "title": "Conduct in Court and the Bar Council – Advocate Manish Jha",
-  "excerpt": "The Supreme Court confirms that State Bar Councils can take cognizance of indecent behaviour by an advocate inside court premises, while modifying a 21-year-old suspension to a warning."
- },
- {
-  "slug": "railway-compensation-untoward-incident-delhi-high-court.php",
-  "date": "2026-08-07",
-  "date_display": "7 August 2026",
-  "category": "Civil & Property",
-  "title": "Rail Passengers and Untoward Incidents – Advocate Manish Jha",
-  "excerpt": "The Delhi High Court upholds NHRC-recommended compensation against the Railways: a violent attack on a ticketed passenger inside a stationary compartment is an untoward incident under the Railways Act."
- },
- {
-  "slug": "acquittal-after-22-years-sole-eyewitness-supreme-court.php",
-  "date": "2026-08-06",
-  "date_display": "6 August 2026",
-  "category": "Criminal Law",
-  "title": "Acquittal After 22 Years in Prison – Advocate Manish Jha",
-  "excerpt": "In Arjun Jani @ Tuntun v. State of Orissa (Crl.A. 3639/2026, 4 August 2026), the Supreme Court acquits a man who spent twenty-two years in prison for a triple murder, holding that a sole eyewitness must inspire confidence and that jail appeals cannot be dismissed on delay alone."
- },
- {
-  "slug": "cheque-bounce-presumptions-revision-supreme-court.php",
-  "date": "2026-08-06",
-  "date_display": "6 August 2026",
-  "category": "Commercial & Corporate",
-  "title": "Cheque Bounce: Presumptions Prevail – Advocate Manish Jha",
-  "excerpt": "In Kuntegowda v. Thurubaiah (2026 INSC 790, 4 August 2026), the Supreme Court restores a Section 138 NI Act conviction, holding that an admitted signature triggers the statutory presumptions and that a High Court cannot re-appreciate evidence in revision against concurrent findings."
- },
- {
-  "slug": "recall-of-witness-order-18-rule-17-supreme-court.php",
-  "date": "2026-08-06",
-  "date_display": "6 August 2026",
-  "category": "Procedure & Practice",
-  "title": "Recalling a Witness: The SC Limits – Advocate Manish Jha",
-  "excerpt": "In K. Bharathamma v. Bandaru Sakku Bai (2026 INSC 795, 4 August 2026), the Supreme Court holds that Order XVIII Rule 17 CPC exists to clarify the court's doubts, not to fill gaps in evidence, and that absence of prejudice is no justification for reopening a closed record."
- },
- {
-  "slug": "motor-insurance-four-layer-supreme-court-directions.php",
-  "date": "2026-08-06",
-  "date_display": "6 August 2026",
-  "category": "Civil & Property",
-  "title": "Motor Insurance Overhaul by the SC – Advocate Manish Jha",
-  "excerpt": "In National Insurance Co. Ltd. v. Thungala Dhana Laxmi (2026 INSC 793, 4 August 2026), the Supreme Court holds that a comprehensive policy covers the owner travelling as a passenger and directs ANPR-VAHAN integration and longer third-party cover to tackle uninsured vehicles."
- },
- {
-  "slug": "breach-of-contract-not-cheating-supreme-court.php",
-  "date": "2026-08-05",
-  "date_display": "5 August 2026",
-  "category": "Criminal Law",
-  "title": "Breach of Contract Is Not Cheating: SC – Advocate Manish Jha",
-  "excerpt": "In G. Saminathan v. The State (2026 INSC 772, 31 July 2026), the Supreme Court quashes a cheating and criminal breach of trust case born of a failed joint development agreement, holding that dishonest intention must exist at the inception and that Sections 406 and 420 IPC cannot co-exist on the same facts."
- },
- {
-  "slug": "specific-performance-delay-readiness-supreme-court.php",
-  "date": "2026-08-05",
-  "date_display": "5 August 2026",
-  "category": "Civil & Property",
-  "title": "Specific Performance and Delay: SC – Advocate Manish Jha",
-  "excerpt": "In V.N.A.S. Chandran v. S. Venila (2026 INSC 776), the Supreme Court refuses specific performance of a 2004 sale agreement, holding that a buyer must prove continuous readiness and willingness and that a lapse of over two decades militates against the equitable relief."
- },
- {
-  "slug": "when-an-acquittal-stands-supreme-court-evidence.php",
-  "date": "2026-08-05",
-  "date_display": "5 August 2026",
-  "category": "Criminal Law",
-  "title": "When an Acquittal Stands: SC on Evidence – Advocate Manish Jha",
-  "excerpt": "In Nirmala Bai Devidas Chavhan v. State of Maharashtra (2026 INSC 787), the Supreme Court upholds the acquittal of twenty accused, explaining when identical testimony suggests tutoring, when medical evidence displaces ocular accounts, and how investigative lapses weigh."
- },
- {
-  "slug": "section-498a-live-in-relationships-supreme-court.php",
-  "date": "2026-08-04",
-  "date_display": "4 August 2026",
-  "category": "Criminal Law",
-  "title": "Section 498A and Live-In Relationships – Advocate Manish Jha",
-  "excerpt": "In Dr Lokesh B.H. v. State of Karnataka (3 August 2026), the Supreme Court holds that Section 498A IPC extends to live-in relationships in the nature of marriage between consenting adults, while mandating strict Arnesh Kumar safeguards."
- },
- {
-  "slug": "motor-accident-compensation-child-victims.php",
-  "date": "2026-08-04",
-  "date_display": "4 August 2026",
-  "category": "Civil & Property",
-  "title": "Accident Compensation for Child Victims – Advocate Manish Jha",
-  "excerpt": "The Supreme Court enhances a paraplegic child's motor accident award to Rs. 83.38 lakh, holding that functional disability, skilled-worker notional income and the multiplier of 18 govern claims for catastrophically injured children."
- },
- {
-  "slug": "adultery-plea-at-interim-maintenance-stage-125-crpc.php",
-  "date": "2026-08-04",
-  "date_display": "4 August 2026",
-  "category": "Matrimonial & Family",
-  "title": "Adultery Plea at Interim Maintenance Stage – Advocate Manish Jha",
-  "excerpt": "In Himanshu Chordia v. State of Rajasthan (31 July 2026), the Supreme Court holds that a Section 125(4) CrPC plea of adultery must be examined at the interim maintenance stage where the material ex facie establishes the disqualification."
- },
- {
-  "slug": "section-299-crpc-evidence-against-absconding-accused.php",
-  "date": "2026-08-04",
-  "date_display": "4 August 2026",
-  "category": "Criminal Law",
-  "title": "Evidence Against an Absconder: SC Limits – Advocate Manish Jha",
-  "excerpt": "Acquitting a man convicted of a 1999 murder, the Supreme Court holds that a deposition recorded in an absconder's absence is inadmissible against him unless a formal Section 299 CrPC order was passed at the time."
- },
- {
-  "slug": "ed-freezing-bank-accounts-reason-to-believe-pmla.php",
-  "date": "2026-08-03",
-  "date_display": "3 August 2026",
-  "category": "Cyber & Fraud",
-  "title": "Suspicion Is Not Reason to Believe: PMLA Freezing",
-  "excerpt": "The Supreme Court has dismissed the Enforcement Directorate's challenge to a Delhi High Court judgment holding that bank accounts cannot be frozen under the PMLA on mere suspicion, without the recorded reason to believe the statute requires."
- },
- {
-  "slug": "reach-stacker-not-motor-vehicle-mact-jurisdiction.php",
-  "date": "2026-08-03",
-  "date_display": "3 August 2026",
-  "category": "Civil & Property",
-  "title": "Reach Stacker Is Not a Motor Vehicle: MACT Limits",
-  "excerpt": "A reach stacker operating inside the custom-bonded Inland Container Depot at Tughlakabad is not a motor vehicle and depot roads are not a public place, the Supreme Court has held, restoring the Delhi MACT's rejection of the claim."
- },
- {
-  "slug": "limits-on-quashing-an-fir-supreme-court.php",
-  "date": "2026-08-03",
-  "date_display": "3 August 2026",
-  "category": "Criminal Law",
-  "title": "Limits on Quashing an FIR: Supreme Court – Advocate Manish Jha",
-  "excerpt": "Restoring quashed corruption FIRs in State of Karnataka v. Prabhu Shankar (30 July 2026), the Supreme Court reiterates that a High Court cannot conduct a mini-trial at the threshold: the only question is whether the FIR prima facie discloses a cognizable offence."
- },
- {
-  "slug": "property-in-a-wifes-name-and-succession.php",
-  "date": "2026-08-03",
-  "date_display": "3 August 2026",
-  "category": "Civil & Property",
-  "title": "Property in a Wife's Name and Succession – Advocate Manish Jha",
-  "excerpt": "In Shakuntala v. Robert Anthony (30 July 2026), the Supreme Court holds that property purchased in the names of the two wives devolved as each wife's own estate — Sections 35 and 38 of the Indian Succession Act, 1925 governed, not Section 33."
- },
- {
-  "slug": "appeal-or-revision-against-sessions-court-conviction.php",
-  "date": "2026-08-03",
-  "date_display": "3 August 2026",
-  "category": "Criminal Law",
-  "title": "Conviction in Appeal: Revision, Not Appeal",
-  "excerpt": "The Supreme Court has held that no appeal lies under Section 374 CrPC or Section 415 BNSS where a Sessions Court reverses an acquittal and convicts an accused for the first time. The remedy is criminal revision, to be examined with greater scrutiny."
- },
- {
-  "slug": "annual-enhancement-of-maintenance-delhi-high-court.php",
-  "date": "2026-08-03",
-  "date_display": "3 August 2026",
-  "category": "Matrimonial & Family",
-  "title": "Annual Rise in Maintenance Upheld",
-  "excerpt": "The Delhi High Court has upheld a five per cent yearly increase built into a Family Court maintenance order, holding it a lawful means of preserving the real value of the award against inflation."
- },
- {
-  "slug": "sanction-for-prosecution-section-19-prevention-of-corruption-act.php",
-  "date": "2026-08-03",
-  "date_display": "3 August 2026",
-  "category": "Criminal Law",
-  "title": "Review of Sanction Under Section 19 PC Act",
-  "excerpt": "A considered refusal of sanction to prosecute a public servant cannot be reopened on the same material. The Supreme Court declined to interfere with the quashing of a sanction granted after a reference from the Chief Minister's office, and imposed costs."
- },
- {
-  "slug": "parity-in-bail-delhi-high-court.php",
-  "date": "2026-08-03",
-  "date_display": "3 August 2026",
-  "category": "Criminal Law",
-  "title": "Parity in Bail: A Delhi High Court Order",
-  "excerpt": "An order of 31 July 2026 illustrates three considerations that most often decide a regular bail application: the role attributed to the applicant, the position of co-accused already released, and the stage the trial has reached."
- },
- {
-  "slug": "maintenance-application-delhi-family-courts-procedure.php",
-  "date": "2026-08-03",
-  "date_display": "3 August 2026",
-  "category": "Procedure & Practice",
-  "title": "Maintenance in Delhi Family Courts",
-  "excerpt": "A step by step account of how a maintenance application proceeds in the Family Courts of Delhi, from filing and the affidavit of assets through interim relief, evidence, the final order and enforcement."
- }
+  {
+    "slug": "child-maintenance-working-mother-supreme-court-2026-insc-896.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "A Mother's Earnings Do Not Halve the Father's Duty: The Supreme Court on Child Maintenance",
+    "excerpt": "In Sujata Kumari v. Rahul Kumar, 2026 INSC 896, the Supreme Court restored a Family Court's interim maintenance award for two minor daughters, holding that parental obligation \"cannot be divided by arithmetic alone\"."
+  },
+  {
+    "slug": "false-promise-of-marriage-tainted-consent-bail-delhi-high-court.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Criminal Law",
+    "title": "Only \"Tainted\" Consent Makes It an Offence: Delhi High Court on False Promise of Marriage",
+    "excerpt": "Granting bail in Vimal v. State NCT of Delhi, Justice Girish Kathpalia held that a consensual relationship becomes an offence only where consent was genuinely induced by a false assurance of marriage — and examined the timeline of the relationship to test that claim."
+  },
+  {
+    "slug": "mutation-entries-title-second-appeal-jamnabai-supreme-court.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Civil & Property",
+    "title": "Mutation Entries Do Not Decide Ownership: The Supreme Court in Jamnabai v. Vasudev",
+    "excerpt": "The Supreme Court restored concurrent findings of two courts, holding that revenue entries serve fiscal purposes only, that limitation runs from knowledge of the hostile claim, and that Section 100 CPC does not permit re-appreciation of facts."
+  },
+  {
+    "slug": "protection-orders-section-18-dv-act.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Protection Orders Under Section 18 of the DV Act",
+    "excerpt": "The preventive backbone of the Act of 2005 — what a protection order forbids, how it is obtained before the Magistrate, and why its breach is a criminal offence."
+  },
+  {
+    "slug": "aggrieved-person-respondent-shared-household-dv-act.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Who Can File a DV Case, and Against Whom: Key Definitions in the DV Act",
+    "excerpt": "Five definitions in the Act of 2005 decide almost every threshold question — who may complain, who may be arrayed, and what conduct counts as domestic violence."
+  },
+  {
+    "slug": "maintenance-section-24-hma-pendente-lite.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Maintenance Pendente Lite Under Section 24 of the Hindu Marriage Act",
+    "excerpt": "Interim maintenance and litigation expenses during matrimonial proceedings — a gender-neutral remedy available to either spouse under the Act of 1955."
+  },
+  {
+    "slug": "restitution-of-conjugal-rights-section-9-hma.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Restitution of Conjugal Rights Under Section 9 HMA",
+    "excerpt": "What the decree of restitution actually does, how it is enforced, and what follows when a spouse does not resume cohabitation."
+  },
+  {
+    "slug": "divorce-under-special-marriage-act-delhi.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Divorce Under the Special Marriage Act, 1954",
+    "excerpt": "How civil and inter-faith marriages solemnised or registered under the Act of 1954 are dissolved, and how the process compares with divorce under the Hindu Marriage Act."
+  },
+  {
+    "slug": "cancellation-of-bail-section-483-3-bnss.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Criminal Law",
+    "title": "Cancellation of Bail: Section 483(3) BNSS (formerly 439(2) CrPC)",
+    "excerpt": "The statutory power of the High Court and Court of Session to direct that a person released on bail be arrested, and how that power is invoked in practice."
+  },
+  {
+    "slug": "anticipatory-bail-after-chargesheet-stage.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Criminal Law",
+    "title": "Anticipatory Bail at the Chargesheet Stage: How the Position Changes",
+    "excerpt": "The text of Section 482 BNSS contains no stage bar, but once a chargesheet is filed the practical options and the framing of the apprehension change."
+  },
+  {
+    "slug": "anticipatory-bail-application-procedure-delhi.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Criminal Law",
+    "title": "How an Anticipatory Bail Application Proceeds in Delhi",
+    "excerpt": "From choosing the forum under Section 482 BNSS to interim protection, the status report, conditions and the furnishing of bonds."
+  },
+  {
+    "slug": "defending-msefc-samadhaan-claim-buyer-objections.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Facing an MSME Samadhaan Claim: The Buyer's Side of Section 18",
+    "excerpt": "What happens after a supplier files a reference before the Facilitation Council, the defences a buyer can place on record, and the interest and pre-deposit provisions that shape the exposure."
+  },
+  {
+    "slug": "msmed-act-and-arbitration-clause-interplay.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "MSMED Act Reference vs Contractual Arbitration Clause",
+    "excerpt": "What the statute itself says about the Facilitation Council route, its overriding effect over inconsistent laws, and where that leaves the arbitration clause the parties signed."
+  },
+  {
+    "slug": "what-is-a-commercial-dispute-specified-value.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "What Counts as a Commercial Dispute: Section 2(1)(c) and Specified Value",
+    "excerpt": "The statutory definition that routes a suit to the commercial courts, how Specified Value is computed, and what changes procedurally once a case carries the commercial tag."
+  },
+  {
+    "slug": "summary-suits-order-37-cpc-recovery-delhi.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Summary Suits Under Order 37 CPC for Recovery of Money",
+    "excerpt": "A recovery mechanism that reverses the usual sequence: the defendant must first obtain leave to defend, failing which the plaintiff becomes entitled to a decree."
+  },
+  {
+    "slug": "pocso-presumptions-sections-29-30.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Criminal Law",
+    "title": "The Presumptions in POCSO: Sections 29 and 30",
+    "excerpt": "What the two presumption provisions of the POCSO Act actually say, when they begin to operate, and what a rebuttable presumption means for the defence."
+  },
+  {
+    "slug": "age-determination-pocso-jj-act-section-94.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Criminal Law",
+    "title": "Age Determination in POCSO Cases: Section 94 of the JJ Act",
+    "excerpt": "Why age is the threshold question in every POCSO case, the graded statutory scheme for proving it, and how a claim of juvenility by an accused is dealt with."
+  },
+  {
+    "slug": "appeal-against-acquittal-section-419-bnss.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Procedure & Practice",
+    "title": "Appeals Against Acquittal: Section 419 BNSS (formerly 378 CrPC)",
+    "excerpt": "Who may challenge an acquittal, which court hears it, the leave and limitation requirements written into the statute, and how such appeals proceed."
+  },
+  {
+    "slug": "review-and-curative-petitions-supreme-court.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Procedure & Practice",
+    "title": "After an SLP Fails: Review and Curative Petitions in the Supreme Court",
+    "excerpt": "Two narrow, rule-bound remedies stand between a dismissed special leave petition and absolute finality — and both are designed to fail in all but exceptional cases."
+  },
+  {
+    "slug": "slp-against-interlocutory-and-bail-orders.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Procedure & Practice",
+    "title": "SLPs Against Interlocutory and Bail Orders: What Article 136 Permits",
+    "excerpt": "The constitutional text is wide enough to reach any order of any court — but the width of the power and the willingness to use it are two very different things."
+  },
+  {
+    "slug": "section-37-arbitration-act-appeals.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Appeals Under Section 37 of the Arbitration and Conciliation Act",
+    "excerpt": "Which orders in the arbitration process can be appealed, which cannot, and where and within what time such appeals are taken in Delhi."
+  },
+  {
+    "slug": "arbitrator-ineligibility-section-12-5-seventh-schedule.php",
+    "date": "2026-08-22",
+    "date_display": "22 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Arbitrator Ineligibility: Section 12(5) and the Seventh Schedule",
+    "excerpt": "How the 1996 Act secures the independence of arbitrators — disclosure under the Fifth and Sixth Schedules, the absolute bar of the Seventh, and what this means for appointment clauses."
+  },
+  {
+    "slug": "up-gangsters-act-creates-no-offence-supreme-court.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Criminal Law",
+    "title": "The UP Gangsters Act Is “Stillborn”: It Punishes Without Creating an Offence",
+    "excerpt": "In Shiv Pratap Singh v. State of U.P., 2026 INSC 894, the Supreme Court holds that the UP Gangsters Act defines a gangster and prescribes punishment but never creates an offence, and quashes gang-chart prosecutions against two advocates."
+  },
+  {
+    "slug": "scst-act-public-view-enclosed-room-supreme-court.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Criminal Law",
+    "title": "Caste Abuse Inside an Enclosed Room Is Not “Within Public View”: Supreme Court",
+    "excerpt": "In Ramkrishna Chauhan v. State of U.P., 2026 INSC 895, the Supreme Court quashes charges under Sections 3(1)(r) and 3(1)(s) of the SC/ST Act where the alleged insult occurred in a closed school office, while the IPC prosecution continues."
+  },
+  {
+    "slug": "fir-after-rejection-156-3-application-supreme-court.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Criminal Law",
+    "title": "Rejection of a 156(3) Application Does Not Bar a Later FIR: Supreme Court",
+    "excerpt": "In Pramod Kumar Shukla v. State of U.P., 2026 INSC 887, the Supreme Court holds that a Magistrate’s threshold refusal to direct investigation is not res judicata against the police’s independent duty to register an FIR."
+  },
+  {
+    "slug": "pocso-cross-examination-child-witness-section-33-delhi-high-court.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Criminal Law",
+    "title": "POCSO Does Not Bar Cross-Examining a Child — It Regulates How: Delhi High Court",
+    "excerpt": "In Shankar Singh v. State, CRL.A. 662/2025, the Delhi High Court holds that Section 33 POCSO requires defence questions to be put to the child through the Special Court — not shut out — while upholding the conviction on the evidence."
+  },
+  {
+    "slug": "interim-ex-parte-orders-section-23-dv-act.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Interim and Ex Parte Orders Under Section 23 of the DV Act",
+    "excerpt": "How Magistrates grant urgent interim and ex parte relief in domestic violence cases — the affidavit route, the full menu of interim reliefs, enforcement, and appeals under Section 29."
+  },
+  {
+    "slug": "monetary-relief-section-20-dv-act.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Monetary Relief Under Section 20 of the DV Act: Wider Than Maintenance",
+    "excerpt": "Section 20 compensates lost earnings, medical expenses and property losses caused by domestic violence, over and above maintenance — and interacts with Section 144 BNSS and HMA maintenance through disclosure and adjustment."
+  },
+  {
+    "slug": "maintenance-for-parents-section-144-bnss-senior-citizens-act.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Maintenance for Parents: Section 144 BNSS and the Senior Citizens Act",
+    "excerpt": "Two statutory routes for ageing parents — court-ordered maintenance under Section 144 BNSS and the faster Tribunal remedy under the 2007 Act, including the Section 23 power to void conditional property transfers."
+  },
+  {
+    "slug": "permanent-alimony-section-25-hindu-marriage-act.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Permanent Alimony Under Section 25 of the Hindu Marriage Act",
+    "excerpt": "Who can claim permanent alimony, what courts weigh, lump sum versus monthly payments, and how orders are varied or rescinded on changed circumstances or remarriage."
+  },
+  {
+    "slug": "desertion-as-ground-for-divorce-hma.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Desertion as a Ground for Divorce: What Section 13(1)(ib) Actually Requires",
+    "excerpt": "Two years of separate living is not enough — desertion requires factum, animus, absence of cause and consent, and can be interrupted by a genuine offer to return. How the ground is pleaded and proved."
+  },
+  {
+    "slug": "void-voidable-marriages-annulment-hma.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Annulment Under the Hindu Marriage Act: Void and Voidable Marriages",
+    "excerpt": "Sections 11 and 12 HMA — bigamy, prohibited degrees, fraud, non-consummation and concealed pregnancy, the one-year limits, and the legitimacy of children under Section 16."
+  },
+  {
+    "slug": "interim-bail-when-courts-grant-it.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Criminal Law",
+    "title": "Interim Bail: Short-Term Liberty While the Main Application Is Decided",
+    "excerpt": "How Delhi courts grant time-bound release pending the regular bail decision or for medical and family emergencies — the grounds, the conditions, and the consequences of not surrendering."
+  },
+  {
+    "slug": "bail-conditions-what-courts-can-impose.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Criminal Law",
+    "title": "Bail Conditions: What Courts May Impose, and Where the Limits Lie",
+    "excerpt": "Conditions under Section 480(3) BNSS must secure attendance and protect the investigation — not punish. Cash deposits, onerous sureties and unrelated conditions, and how to seek modification."
+  },
+  {
+    "slug": "transit-anticipatory-bail-explained.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Criminal Law",
+    "title": "Transit Anticipatory Bail: Protection While You Reach the Right Court",
+    "excerpt": "When an FIR is registered in another State, limited pre-arrest protection from the courts where the accused resides bridges the journey to the competent court — the safeguards, conditions and drafting essentials."
+  },
+  {
+    "slug": "anticipatory-bail-matrimonial-cases-bns-85.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Criminal Law",
+    "title": "Anticipatory Bail in Matrimonial Cases: Section 85 BNS and the Arrest Safeguards",
+    "excerpt": "Cruelty complaints under BNS Section 85 (498A IPC) and pre-arrest protection — the Section 35 BNSS notice regime, how courts treat omnibus allegations against relatives, and the conditions that attach."
+  },
+  {
+    "slug": "msmed-act-interest-sections-15-17-delayed-payments.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "The Interest Engine of the MSMED Act: Sections 15, 16 and 17",
+    "excerpt": "The 45-day payment ceiling no contract can stretch, compound interest at three times the RBI bank rate with monthly rests, and the tax provisions — Section 23 MSMED and 43B(h) — that reinforce them."
+  },
+  {
+    "slug": "udyam-registration-msme-classification-remedies.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Udyam Registration: The Gateway to MSME Remedies",
+    "excerpt": "The revised micro, small and medium thresholds effective 1 April 2025, why registration timing shapes a delayed-payment claim, and what MSME status unlocks — and does not."
+  },
+  {
+    "slug": "summary-judgment-order-13a-commercial-courts.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Summary Judgment Under Order XIII-A: Deciding Commercial Suits Without Trial",
+    "excerpt": "The “no real prospect” test, the window between service of summons and framing of issues, conditional orders, and how summary judgment applications are fought in Delhi’s commercial courts."
+  },
+  {
+    "slug": "written-statement-120-day-limit-commercial-suits.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "The 120-Day Limit for Written Statements in Commercial Suits",
+    "excerpt": "In commercial suits the right to file a written statement stands forfeited after 120 days from service of summons, and courts cannot relax it — what forfeiture entails and the battlegrounds it has created."
+  },
+  {
+    "slug": "mandatory-reporting-pocso-sections-19-21.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Criminal Law",
+    "title": "The Duty to Report Under POCSO: Sections 19 to 22 Explained",
+    "excerpt": "POCSO criminalises silence: who must report child sexual offences, the personal liability of institutional heads under Section 21(2), and the good-faith and false-complaint safeguards."
+  },
+  {
+    "slug": "second-appeal-section-100-cpc-delhi.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Procedure & Practice",
+    "title": "Second Appeals Under Section 100 CPC: The Substantial Question of Law",
+    "excerpt": "What makes a question of law substantial, when concurrent findings can be disturbed for perversity, and the disciplines that decide Regular Second Appeals in the Delhi High Court."
+  },
+  {
+    "slug": "criminal-revision-delhi-high-court-bnss.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Procedure & Practice",
+    "title": "Criminal Revision Before the Delhi High Court: Sections 438 and 442 BNSS",
+    "excerpt": "The supervisory jurisdiction over subordinate criminal courts — which orders are revisable, the interlocutory bar, the one-revision rule, and how revision differs from Section 528 BNSS."
+  },
+  {
+    "slug": "slp-dismissal-effect-doctrine-of-merger.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Procedure & Practice",
+    "title": "Dismissal of an SLP: What It Decides, and What It Leaves Open",
+    "excerpt": "In limine dismissals, speaking orders and dismissals after leave carry very different consequences — the doctrine of merger, surviving remedies before the High Court, and the withdrawal wrinkle."
+  },
+  {
+    "slug": "condonation-of-delay-slp-supreme-court.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Procedure & Practice",
+    "title": "Condonation of Delay in SLPs: The 90 Days and What Comes After",
+    "excerpt": "Limitation for special leave petitions, the anatomy of a condonation application, the stricter scrutiny of government delay, and how delay and merits interact at admission."
+  },
+  {
+    "slug": "section-29a-arbitration-time-limit-extension.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Section 29A: The Clock on Domestic Arbitral Awards",
+    "excerpt": "The twelve-month deadline from completion of pleadings, the six-month consent extension, and the court’s powers on extension applications — terms, fee reduction and substitution of arbitrators."
+  },
+  {
+    "slug": "section-8-reference-to-arbitration-civil-suit.php",
+    "date": "2026-08-21",
+    "date_display": "21 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Section 8: When a Civil Suit Runs Into an Arbitration Clause",
+    "excerpt": "The mandatory reference to arbitration, the first-statement deadline, the prima facie test after the 2015 amendment, non-arbitrable disputes, and suits framed to escape the clause."
+  },
+  {
+    "slug": "default-bail-uapa-bnss-180-days-delhi-high-court.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Criminal Law",
+    "title": "UAPA Custody: 180 Days Survive BNSS – Advocate Manish Jha",
+    "excerpt": "A Delhi High Court Division Bench holds that the reference to Section 167 CrPC in Section 43D(2) UAPA must be read as Section 187 BNSS, preserving the 180-day investigation custody framework and denying default bail in the Red Fort blast case."
+  },
+  {
+    "slug": "gangsters-act-section-12-no-stay-other-trials-supreme-court.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Criminal Law",
+    "title": "Gangsters Act Cannot Stall a Trial: SC – Advocate Manish Jha",
+    "excerpt": "In Keshvendra Singh v. Shankar Singh, 2026 INSC 866, the Supreme Court holds that the priority clause in Section 12 of the UP Gangsters Act operates only when hearing dates clash — it does not freeze a pending murder trial."
+  },
+  {
+    "slug": "redacted-evidence-affidavits-reliance-ntpc-supreme-court.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "No Evidence by the Back Door: SC – Advocate Manish Jha",
+    "excerpt": "In Reliance Industries v. NTPC, 2026 INSC 862, the Supreme Court upholds the redaction of evidence affidavits that sought to reintroduce excluded internal documents through oral testimony, with costs of ten lakh rupees."
+  },
+  {
+    "slug": "spousal-parental-consortium-motor-accident-supreme-court.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Civil & Property",
+    "title": "Consortium for Adult Children: SC – Advocate Manish Jha",
+    "excerpt": "In Sameem Begum v. K. Venkat Swamy, 2026 INSC 864, the Supreme Court enhances a motor accident award, holding the widow and each adult child separately entitled to spousal and parental consortium."
+  },
+  {
+    "slug": "residence-orders-right-to-reside-dv-act.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Residence Orders under the DV Act – Advocate Manish Jha",
+    "excerpt": "Section 17 of the Domestic Violence Act, 2005 gives every woman in a domestic relationship the right to reside in the shared household, irrespective of title. An explainer on residence orders under Section 19, interim relief under Section 23, and why possession — not ownership — is what these orders protect."
+  },
+  {
+    "slug": "appeals-under-section-29-dv-act-delhi.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Appeals under Section 29 of the DV Act – Advocate Manish Jha",
+    "excerpt": "How orders under the Domestic Violence Act are challenged: the Section 29 appeal to the Court of Session within thirty days of service, the position on stay and condonation of delay, and the routes to the High Court thereafter."
+  },
+  {
+    "slug": "enforcing-maintenance-orders-delhi.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Enforcing Maintenance Orders in Delhi – Advocate Manish Jha",
+    "excerpt": "What follows when a maintenance order is not obeyed: warrants, recovery as a fine and imprisonment under Section 144(3) BNSS, execution of Hindu Marriage Act orders as decrees, and direct payment by an employer under the DV Act."
+  },
+  {
+    "slug": "affidavit-of-assets-maintenance-rajnesh-neha.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Affidavit of Assets in Maintenance Cases – Advocate Manish Jha",
+    "excerpt": "Since Rajnesh v. Neha made financial disclosure mandatory in maintenance proceedings, the affidavit of assets, income and expenditure decides most cases. What it must disclose, the recurring failure patterns, and the documents to annex."
+  },
+  {
+    "slug": "cruelty-ground-divorce-hindu-marriage-act.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Cruelty as a Ground for Divorce – Advocate Manish Jha",
+    "excerpt": "What cruelty means under Section 13(1)(ia) of the Hindu Marriage Act, 1955: physical and mental cruelty, the cumulative course-of-conduct test, recognised patterns, pleading and proof, and condonation."
+  },
+  {
+    "slug": "transfer-of-matrimonial-cases-delhi.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Transfer of Matrimonial Cases – Advocate Manish Jha",
+    "excerpt": "Where matrimonial petitions can be filed, and how a pending divorce, maintenance or custody case can be transferred - within Delhi under Section 24 CPC, and between States by the Supreme Court under Section 25 CPC or Section 446 BNSS."
+  },
+  {
+    "slug": "successive-bail-applications-change-in-circumstances.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Criminal Law",
+    "title": "Successive Bail Applications in India – Advocate Manish Jha",
+    "excerpt": "No statute bars a fresh bail application after rejection, but settled practice requires a substantial change in circumstances. What qualifies, what does not, the duty to disclose earlier applications, and how a successive application should be drafted."
+  },
+  {
+    "slug": "anticipatory-bail-section-482-bnss.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Criminal Law",
+    "title": "Anticipatory Bail under Section 482 BNSS – Advocate Manish Jha",
+    "excerpt": "Anticipatory bail now rests in Section 482 of the BNSS, 2023, which replaced Section 438 CrPC. A practice note on the forum, the statutory conditions and exclusions, and how long the protection lasts."
+  },
+  {
+    "slug": "anticipatory-bail-conditions-and-cancellation.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Criminal Law",
+    "title": "Anticipatory Bail: Life After the Order – Advocate Manish Jha",
+    "excerpt": "What an anticipatory bail order requires after it is granted: the conditions under Section 482(2) BNSS, the meaning of cooperation with the investigation, and the grounds on which the protection can be cancelled under Section 483(3) BNSS."
+  },
+  {
+    "slug": "bail-in-pocso-cases-delhi.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Criminal Law",
+    "title": "Bail in POCSO Cases: Law and Practice – Advocate Manish Jha",
+    "excerpt": "POCSO cases are tried by designated Special Courts, and bail remains a matter of judicial discretion under the BNSS. An explanation of the statutory presumptions, the factors courts weigh, and the conditions typically imposed."
+  },
+  {
+    "slug": "pocso-trial-child-witness-protections.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Criminal Law",
+    "title": "Child Witness Protection in POCSO Trials – Advocate Manish Jha",
+    "excerpt": "The statutory safeguards that follow a child witness from the first report to the final deposition under the POCSO Act: how statements are recorded, how identity is protected, how the Special Court conducts the trial, and the compensation framework."
+  },
+  {
+    "slug": "suspension-of-sentence-pending-appeal-delhi.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Criminal Law",
+    "title": "Suspension of Sentence Pending Appeal – Advocate Manish Jha",
+    "excerpt": "After conviction, liberty pending appeal depends on suspension of the execution of the sentence under Section 430 BNSS, formerly Section 389 CrPC. A note on the forum, the factors courts weigh, conditions of release and surrender on dismissal."
+  },
+  {
+    "slug": "rfa-fao-lpa-appeals-delhi-high-court.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Procedure & Practice",
+    "title": "RFA, FAO, RSA and LPA: Civil Appeals – Advocate Manish Jha",
+    "excerpt": "A practice note mapping civil appeals in the Delhi High Court: RFA under Section 96 CPC, FAO under Order XLIII, RSA on a substantial question of law, LPA to a Division Bench, and Section 13 commercial appeals, with limitation and stay."
+  },
+  {
+    "slug": "special-leave-petition-article-136-guide.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Procedure & Practice",
+    "title": "Special Leave Petitions under Article 136 – Advocate Manish Jha",
+    "excerpt": "The special leave petition is not an appeal but a request for the Supreme Court's discretionary leave. A practice note on when it lies, the ninety and sixty day limitation, filing through an Advocate-on-Record, and what happens at the motion hearing."
+  },
+  {
+    "slug": "after-leave-granted-supreme-court-appeal.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Procedure & Practice",
+    "title": "After Leave: SLP to Appeal in Court – Advocate Manish Jha",
+    "excerpt": "Once the Supreme Court grants leave, a Special Leave Petition is registered as a civil or criminal appeal and heard on merits. A practice note on pleadings, interim arrangements, final hearing, merger, review and the curative petition."
+  },
+  {
+    "slug": "msme-delayed-payment-recovery-samadhaan.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "MSME Delayed Payment Recovery – Advocate Manish Jha",
+    "excerpt": "The MSMED Act, 2006 caps credit periods at forty-five days, imposes compound interest at three times the bank rate on default, and lets micro and small suppliers refer disputes to the Facilitation Council through the MSME Samadhaan portal."
+  },
+  {
+    "slug": "challenging-msme-facilitation-council-award.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Challenging an MSME Council Award – Advocate Manish Jha",
+    "excerpt": "An award of the MSE Facilitation Council can only be challenged under Section 34 of the Arbitration Act, and Section 19 of the MSMED Act bars the court from entertaining the challenge unless the buyer deposits 75 per cent of the awarded amount, part of which may be released to the supplier pending decision."
+  },
+  {
+    "slug": "pre-institution-mediation-section-12a-commercial-courts.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Pre-suit mediation under Section 12A – Advocate Manish Jha",
+    "excerpt": "Section 12A of the Commercial Courts Act makes pre-institution mediation mandatory for commercial suits that contemplate no urgent interim relief. How the process works, its timelines, and what a settlement is worth."
+  },
+  {
+    "slug": "appointment-of-arbitrator-section-11-delhi.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Appointing an Arbitrator: Section 11 – Advocate Manish Jha",
+    "excerpt": "How an arbitral tribunal is put in place: the notice under Section 21 that commences proceedings, the agreed appointment procedure, and the court's role under Section 11 of the Arbitration and Conciliation Act, 1996, with Delhi practice in view."
+  },
+  {
+    "slug": "enforcement-stay-arbitral-award-section-36.php",
+    "date": "2026-08-20",
+    "date_display": "20 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Enforcing Arbitral Awards: Section 36 – Advocate Manish Jha",
+    "excerpt": "How a domestic arbitral award is enforced as a decree under Section 36 of the Arbitration and Conciliation Act, 1996 — the end of the automatic stay, the conditions on which courts stay money awards, and the mechanics of execution under Order XXI CPC."
+  },
+  {
+    "slug": "life-imprisonment-concurrent-sentences-supreme-court.php",
+    "date": "2026-08-19",
+    "date_display": "19 August 2026",
+    "category": "Criminal Law",
+    "title": "Life Term Means Concurrent Sentences – Advocate Manish Jha",
+    "excerpt": "In Gopi @ Sahaya Puruna v. The State (2026 INSC 880) the Supreme Court held that fixed-term sentences must run concurrently with life imprisonment, and that an appellate court cannot enhance a sentence in an appeal filed only by the convict."
+  },
+  {
+    "slug": "insurance-advance-premium-section-64vb-supreme-court.php",
+    "date": "2026-08-19",
+    "date_display": "19 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "No Premium, No Risk: S.64VB Explained – Advocate Manish Jha",
+    "excerpt": "Setting aside an NCDRC award of over ₹22 crore in New India Assurance v. Louis Dreyfus Commodities (2026 INSC 876), the Supreme Court held an insurer bears no risk beyond the sum insured unless the additional premium is paid in advance — and neither an official's email nor estoppel can override Section 64VB."
+  },
+  {
+    "slug": "interim-maintenance-wife-qualifications-delhi-high-court.php",
+    "date": "2026-08-19",
+    "date_display": "19 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Interim Maintenance: Not Income Alone – Advocate Manish Jha",
+    "excerpt": "In Ashutosh Rai Asthana v. Yamita Rai Asthana (CRL.REV.P.(MAT.) 122/2024, decided 11 August 2026), the Delhi High Court reduced interim maintenance from ₹30,000 to ₹25,000, holding the quantum cannot rest solely on the husband's income while ignoring the wife's qualifications, income and assets."
+  },
+  {
+    "slug": "consumer-complaint-procedure-delhi-consumer-commissions.php",
+    "date": "2026-08-19",
+    "date_display": "19 August 2026",
+    "category": "Procedure & Practice",
+    "title": "Filing a Consumer Complaint in Delhi – Advocate Manish Jha",
+    "excerpt": "A practical guide to consumer complaints under the Consumer Protection Act, 2019: choosing the right commission, e-Daakhil filing, limitation, evidence, mediation, appeals and execution in Delhi."
+  },
+  {
+    "slug": "reprimand-not-abetment-of-suicide-supreme-court.php",
+    "date": "2026-08-18",
+    "date_display": "18 August 2026",
+    "category": "Criminal Law",
+    "title": "Reprimand Is Not Abetment: SC – Advocate Manish Jha",
+    "excerpt": "Discharging a senior forest officer accused under Section 306 IPC, the Supreme Court held that administrative supervision and reprimands are not abetment of suicide absent a proximate instigating act and intent."
+  },
+  {
+    "slug": "proving-a-will-attesting-witness-sections-68-69-supreme-court.php",
+    "date": "2026-08-18",
+    "date_display": "18 August 2026",
+    "category": "Civil & Property",
+    "title": "Proving a Will: S.68 & 69 Explained – Advocate Manish Jha",
+    "excerpt": "In Pazhanathal v. Alamathal (2026 INSC 860) the Supreme Court held Section 69 of the Evidence Act opens only when proof through an attesting witness is impossible — registration of a will is no shortcut."
+  },
+  {
+    "slug": "ndps-bail-fake-sureties-directions-supreme-court.php",
+    "date": "2026-08-18",
+    "date_display": "18 August 2026",
+    "category": "Criminal Law",
+    "title": "Fake Sureties in NDPS Bail: SC – Advocate Manish Jha",
+    "excerpt": "Cancelling bail obtained on a fictitious surety in a commercial-quantity heroin case, the Supreme Court issued Article 142 directions on passport deposit, FRRO registration and pre-release verification of sureties."
+  },
+  {
+    "slug": "drowning-not-murder-post-incident-conduct-supreme-court.php",
+    "date": "2026-08-18",
+    "date_display": "18 August 2026",
+    "category": "Criminal Law",
+    "title": "Conduct Alone Cannot Convict: SC – Advocate Manish Jha",
+    "excerpt": "In Taher Vajiyuddin Rangwala v. State of Gujarat (2026 INSC 859) the Supreme Court acquitted two men convicted of murder, holding post-incident conduct cannot prove homicide where evidence points to accidental drowning."
+  },
+  {
+    "slug": "pocso-teacher-conviction-upheld-delhi-high-court.php",
+    "date": "2026-08-17",
+    "date_display": "17 August 2026",
+    "category": "Criminal Law",
+    "title": "POCSO Conviction of a Teacher Upheld – Advocate Manish Jha",
+    "excerpt": "In Netram Kumar v. State of NCT of Delhi (CRL.A. 573/2026, decided 12 August 2026), the Delhi High Court upheld a drawing teacher's conviction under Section 10 POCSO — a worked example of child testimony, the Section 29 presumption, and a school's duty to report."
+  },
+  {
+    "slug": "motor-accident-compensation-legal-representatives-supreme-court.php",
+    "date": "2026-08-17",
+    "date_display": "17 August 2026",
+    "category": "Civil & Property",
+    "title": "Accident Claims Without Dependency: SC – Advocate Manish Jha",
+    "excerpt": "In Sameem Begum v. K. Venkat Swamy (2026 INSC 864), the Supreme Court held that legal representatives may claim motor accident compensation without proving dependency, and awarded consortium of ₹48,400 to the widow and each of three children."
+  },
+  {
+    "slug": "obstructing-civil-trial-costs-supreme-court.php",
+    "date": "2026-08-17",
+    "date_display": "17 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Obstructing a Trial Has a Price: SC – Advocate Manish Jha",
+    "excerpt": "In Reliance Industries Ltd. v. NTPC Ltd. (2026 INSC 862), the Supreme Court held that final evidentiary rulings cannot be reopened through oral testimony, upheld redaction of witness affidavits, and imposed ₹10 lakh costs for two decades of obstruction."
+  },
+  {
+    "slug": "execution-of-decree-delhi-courts.php",
+    "date": "2026-08-17",
+    "date_display": "17 August 2026",
+    "category": "Procedure & Practice",
+    "title": "Executing a Decree in Delhi Courts – Advocate Manish Jha",
+    "excerpt": "A decree is only a right on paper until executed. A practical walkthrough of Order XXI CPC in Delhi — where to file, modes of execution, Section 47 objections, asset disclosure, and the twelve-year limitation under Article 136."
+  },
+  {
+    "slug": "ndps-section-42-substantial-compliance-supreme-court.php",
+    "date": "2026-08-16",
+    "date_display": "16 August 2026",
+    "category": "Criminal Law",
+    "title": "Section 42 NDPS: Substance Over Form – Advocate Manish Jha",
+    "excerpt": "Upholding a conviction for 200 kg of poppy husk, the Supreme Court in Kashmir Ram v. State of Punjab (2026 INSC 854) explained when substantial compliance with Section 42 NDPS Act suffices — and when its breach remains fatal."
+  },
+  {
+    "slug": "agreement-to-sell-tenancy-surrender-supreme-court.php",
+    "date": "2026-08-16",
+    "date_display": "16 August 2026",
+    "category": "Civil & Property",
+    "title": "Agreement to Sell Does Not End a Tenancy – Advocate Manish Jha",
+    "excerpt": "In Nazim Shaikh Hasan v. Nasir Mushtaq Shaikh (2026 INSC 853), the Supreme Court held that an agreement to sell between landlord and tenant does not by itself determine the tenancy, and unregistered agreements offer no part-performance shield."
+  },
+  {
+    "slug": "juvenility-conviction-sentence-supreme-court.php",
+    "date": "2026-08-16",
+    "date_display": "16 August 2026",
+    "category": "Criminal Law",
+    "title": "Juvenility Found Late: What Survives? – Advocate Manish Jha",
+    "excerpt": "In Dinesh Kumar v. State of Haryana (2026 INSC 842), a juvenility finding placed on record decades after a 1998 murder left the conviction intact — but every adult sentence was set aside as incapable of operating."
+  },
+  {
+    "slug": "bail-when-trial-evidence-weakens-delhi-high-court.php",
+    "date": "2026-08-16",
+    "date_display": "16 August 2026",
+    "category": "Criminal Law",
+    "title": "Bail When Trial Evidence Weakens: DHC – Advocate Manish Jha",
+    "excerpt": "Two Delhi High Court orders of 13 August 2026 granted bail in a stabbing and a firing case after the trial record itself weakened the prosecution — a complainant who resiled and a ballistics report matching a different weapon."
+  },
+  {
+    "slug": "anticipatory-bail-fraud-firs-two-orders-delhi-high-court.php",
+    "date": "2026-08-15",
+    "date_display": "15 August 2026",
+    "category": "Criminal Law",
+    "title": "Anticipatory Bail in Fraud FIRs – Advocate Manish Jha",
+    "excerpt": "Two Delhi High Court orders of 13 and 14 August 2026 — one refusing anticipatory bail in a ₹1.65 crore gold fraud, the other directing notice before arrest in an online investment scam — show that pre-arrest protection turns on the state of the evidence and the real need for custody."
+  },
+  {
+    "slug": "cheque-bounce-resigned-director-section-141-delhi-high-court.php",
+    "date": "2026-08-15",
+    "date_display": "15 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Cheque Cases and Resigned Directors – Advocate Manish Jha",
+    "excerpt": "The Delhi High Court quashed four cheque bounce complaints against a director who had resigned before the cheques were issued, holding that Section 141 NI Act requires specific averments of role and yields to unimpeachable ROC records."
+  },
+  {
+    "slug": "gst-advocates-insolvency-professionals-delhi-high-court.php",
+    "date": "2026-08-15",
+    "date_display": "15 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "GST for Insolvency Professionals – Advocate Manish Jha",
+    "excerpt": "A Division Bench held that an advocate acting as an interim resolution professional supplies insolvency and receivership services taxable on forward charge — the reverse charge dispensation covers only legal services rendered as counsel."
+  },
+  {
+    "slug": "child-custody-petitions-delhi-family-courts-procedure.php",
+    "date": "2026-08-15",
+    "date_display": "15 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Child Custody in Delhi Family Courts – Advocate Manish Jha",
+    "excerpt": "A practice guide to guardianship and custody petitions in the Delhi Family Courts: statutes, jurisdiction, interim visitation, counselling and mediation, evidence, final orders and appeals."
+  },
+  {
+    "slug": "ndps-bail-evidence-and-delay-delhi-high-court.php",
+    "date": "2026-08-14",
+    "date_display": "14 August 2026",
+    "category": "Criminal Law",
+    "title": "NDPS Bail: Two Delhi HC Orders – Advocate Manish Jha",
+    "excerpt": "On 12 August 2026 the Delhi High Court granted bail in two NDPS cases from the same investigation — one because call records and co-accused disclosures alone could not establish complicity, the other because custody of almost five years with 8 of 22 witnesses examined violated the right to a speedy trial."
+  },
+  {
+    "slug": "notice-before-arrest-anticipatory-bail-delhi-high-court.php",
+    "date": "2026-08-14",
+    "date_display": "14 August 2026",
+    "category": "Criminal Law",
+    "title": "Notice Before Arrest: Delhi HC – Advocate Manish Jha",
+    "excerpt": "Where the accused had joined the investigation and the IO saw no present need to arrest, the Delhi High Court disposed of an anticipatory bail plea by directing two weeks' prior notice before any arrest, preserving recourse to the Sessions Court."
+  },
+  {
+    "slug": "section-34-arbitration-scope-sterlite-delhi-high-court.php",
+    "date": "2026-08-14",
+    "date_display": "14 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Section 34 Is Not an Appeal: DHC – Advocate Manish Jha",
+    "excerpt": "Dismissing the Union of India's challenge to an award that quashed a Rs 8.55 crore telecom demand against Sterlite Technologies, the Delhi High Court restated that a plausible arbitral view cannot be substituted under Section 34."
+  },
+  {
+    "slug": "transfer-of-suit-section-24-cpc-delhi-high-court.php",
+    "date": "2026-08-14",
+    "date_display": "14 August 2026",
+    "category": "Civil & Property",
+    "title": "Transfer of a Suit for Bias: DHC – Advocate Manish Jha",
+    "excerpt": "The Delhi High Court dismissed a Section 24 CPC petition to transfer a commercial suit, holding that oral observations during hearings, without any adverse adjudication, cannot establish bias — and imposed Rs 25,000 costs."
+  },
+  {
+    "slug": "domestic-violence-case-procedure-delhi-courts.php",
+    "date": "2026-08-14",
+    "date_display": "14 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "How a DV Case Proceeds in Delhi – Advocate Manish Jha",
+    "excerpt": "The Section 12 application, the Domestic Incident Report, ex parte interim orders and the five reliefs — how a case under the Protection of Women from Domestic Violence Act, 2005 moves through the Delhi Magistrate Courts."
+  },
+  {
+    "slug": "alibi-quashing-fir-official-records-supreme-court.php",
+    "date": "2026-08-13",
+    "date_display": "13 August 2026",
+    "category": "Criminal Law",
+    "title": "Alibi and Quashing an FIR: Supreme Court – Advocate Manish Jha",
+    "excerpt": "In Rahul v. State of Uttar Pradesh, 2026 INSC 825, the Supreme Court quashed a dowry death prosecution on the strength of BSF service records, holding there is no inflexible rule that an alibi can be proved only at trial."
+  },
+  {
+    "slug": "composite-appeal-suit-counterclaim-supreme-court.php",
+    "date": "2026-08-13",
+    "date_display": "13 August 2026",
+    "category": "Procedure & Practice",
+    "title": "One Appeal for Suit and Counterclaim: SC – Advocate Manish Jha",
+    "excerpt": "In Basudev v. Sanjay Kumar, 2026 INSC 831, the Supreme Court holds that a common judgment deciding a suit and a counterclaim can be challenged in one composite appeal, framed and court-fee stamped as two."
+  },
+  {
+    "slug": "section-9-interim-relief-after-award-supreme-court.php",
+    "date": "2026-08-13",
+    "date_display": "13 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Section 9 Relief After an Award: SC – Advocate Manish Jha",
+    "excerpt": "In NPCC v. Ishvakoo, 2026 INSC 828, the Supreme Court holds that even the party which lost the arbitration may obtain interim protection under Section 9 in rare and compelling cases, upholding a Rs 3.5 crore deposit."
+  },
+  {
+    "slug": "mutual-consent-divorce-delhi-family-courts-procedure.php",
+    "date": "2026-08-13",
+    "date_display": "13 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Mutual Consent Divorce in Delhi Courts – Advocate Manish Jha",
+    "excerpt": "The joint petition, the first and second motions, the six-month period and when it can be waived — how a mutual consent divorce actually proceeds in the Family Courts of Delhi."
+  },
+  {
+    "slug": "pmla-bail-compromise-predicate-offence-delhi-high-court.php",
+    "date": "2026-08-11",
+    "date_display": "11 August 2026",
+    "category": "Criminal Law",
+    "title": "PMLA Bail After a Compromise: Delhi HC – Advocate Manish Jha",
+    "excerpt": "On 10 August 2026 the Delhi High Court refused bail in a money laundering case, holding that a compromise in the predicate offence does not erase PMLA proceedings and applying the Section 45 twin conditions."
+  },
+  {
+    "slug": "appeal-against-acquittal-354a-pocso-delhi-high-court.php",
+    "date": "2026-08-11",
+    "date_display": "11 August 2026",
+    "category": "Criminal Law",
+    "title": "Acquittal Reversed Under S.354A: Delhi HC – Advocate Manish Jha",
+    "excerpt": "The Delhi High Court reversed a 2016 acquittal, convicting under Section 354A IPC while holding POCSO inapplicable for want of proof of age — with directions on dignity in cross-examination."
+  },
+  {
+    "slug": "rent-control-revision-scope-section-25b8-delhi-high-court.php",
+    "date": "2026-08-11",
+    "date_display": "11 August 2026",
+    "category": "Civil & Property",
+    "title": "Rent Control Revisions: A Narrow Door – Advocate Manish Jha",
+    "excerpt": "A tenant's challenge to an eviction order fails as the Delhi High Court restates the supervisory, non-appellate scope of revision under Section 25B(8) of the Delhi Rent Control Act."
+  },
+  {
+    "slug": "ex-parte-interim-order-arbitration-section-17-delhi-high-court.php",
+    "date": "2026-08-11",
+    "date_display": "11 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Ex Parte Interim Orders in Arbitration – Advocate Manish Jha",
+    "excerpt": "The Delhi High Court set aside an unreasoned ex parte status quo order of an arbitral tribunal under Section 37(2)(b), restating what interim relief under Section 17 requires."
+  },
+  {
+    "slug": "bail-murder-two-orders-delhi-high-court.php",
+    "date": "2026-08-10",
+    "date_display": "10 August 2026",
+    "category": "Criminal Law",
+    "title": "Bail in Murder Trials: Two Delhi HC Orders – Advocate Manish Jha",
+    "excerpt": "On 7 August 2026 the same bench refused bail in one murder case and granted it in another. What the contrasting orders teach about evidence, parity and long custody."
+  },
+  {
+    "slug": "quashing-firs-after-settlement-delhi-high-court.php",
+    "date": "2026-08-10",
+    "date_display": "10 August 2026",
+    "category": "Criminal Law",
+    "title": "Quashing FIRs After Settlement: Delhi HC – Advocate Manish Jha",
+    "excerpt": "The Delhi High Court quashed cross-FIRs from a road rage incident after the parties settled, subject to costs of Rs. 20,000 each. How compromise quashing works under the BNS and BNSS."
+  },
+  {
+    "slug": "discharge-498a-concurrent-findings-delhi-high-court.php",
+    "date": "2026-08-10",
+    "date_display": "10 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "When a 498A Discharge Stands: Delhi HC – Advocate Manish Jha",
+    "excerpt": "Two courts found no ground to frame charges in a 498A IPC prosecution, and the Delhi High Court declined a third look. What discharge means and why concurrent findings are hard to reopen."
+  },
+  {
+    "slug": "anti-suit-injunction-family-court-appeal-delhi-high-court.php",
+    "date": "2026-08-10",
+    "date_display": "10 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Anti-Suit Injunctions in Divorce: Delhi HC – Advocate Manish Jha",
+    "excerpt": "A Family Court restrained a husband from pursuing divorce proceedings in New Jersey. The Delhi High Court holds such an interim order appealable under Section 19 of the Family Courts Act."
+  },
+  {
+    "slug": "enemy-property-plea-eviction-delhi-high-court.php",
+    "date": "2026-08-10",
+    "date_display": "10 August 2026",
+    "category": "Civil & Property",
+    "title": "Enemy Property Plea and Eviction: Delhi HC – Advocate Manish Jha",
+    "excerpt": "Tenants resisting eviction claimed the premises were enemy property vesting in the Government. The Delhi High Court explains why a landlord needs only a better title than the tenant."
+  },
+  {
+    "slug": "marking-exhibit-not-proof-of-contents-supreme-court.php",
+    "date": "2026-08-09",
+    "date_display": "9 August 2026",
+    "category": "Procedure & Practice",
+    "title": "Marking an Exhibit Is Not Proof: SC – Advocate Manish Jha",
+    "excerpt": "In S. Sangeetha v. Tmt. P. Ponni, 2026 INSC 813, the Supreme Court reiterates that an exhibit mark does not prove a document's contents, and cautions against rejecting documents at the threshold of a trial."
+  },
+  {
+    "slug": "preventive-detention-right-to-represent-supreme-court.php",
+    "date": "2026-08-09",
+    "date_display": "9 August 2026",
+    "category": "Criminal Law",
+    "title": "Preventive Detention Safeguards: SC – Advocate Manish Jha",
+    "excerpt": "In Alfiya A v. State of Kerala, 2026 INSC 810, the Supreme Court quashed a PITNDPS detention because the detenu was never told of his right to represent directly to the detaining authority."
+  },
+  {
+    "slug": "ndps-commercial-quantity-bail-section-37-delhi-high-court.php",
+    "date": "2026-08-09",
+    "date_display": "9 August 2026",
+    "category": "Criminal Law",
+    "title": "NDPS Bail and Section 37 Conditions – Advocate Manish Jha",
+    "excerpt": "Dismissing bail in a commercial quantity heroin case at IGI Airport, the Delhi High Court restates the twin conditions of Section 37 NDPS Act and why procedural objections rarely open that gate."
+  },
+  {
+    "slug": "overlapping-maintenance-adjustment-delhi-high-court.php",
+    "date": "2026-08-09",
+    "date_display": "9 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Maintenance Under Two Statutes – Advocate Manish Jha",
+    "excerpt": "The Delhi High Court modified a Family Court interim maintenance order to adjust an existing Domestic Violence Act award, so the wife receives one consolidated sum rather than overlapping payments."
+  },
+  {
+    "slug": "sole-testimony-prosecutrix-conviction-upheld-delhi-high-court.php",
+    "date": "2026-08-09",
+    "date_display": "9 August 2026",
+    "category": "Criminal Law",
+    "title": "Testimony of a Prosecutrix: Delhi HC – Advocate Manish Jha",
+    "excerpt": "Upholding a rape conviction, the Delhi High Court explains why minor omissions do not demolish credible testimony, why belated medical silence proves little, and what a plea of alibi requires."
+  },
+  {
+    "slug": "successive-anticipatory-bail-applications-delhi-high-court.php",
+    "date": "2026-08-08",
+    "date_display": "8 August 2026",
+    "category": "Criminal Law",
+    "title": "Successive Anticipatory Bail Pleas – Advocate Manish Jha",
+    "excerpt": "The Delhi High Court dismissed a third anticipatory bail application where the Supreme Court had already declined relief and nothing had changed since — and flagged the police failure to arrest."
+  },
+  {
+    "slug": "sanction-former-public-servants-2018-amendment-delhi-high-court.php",
+    "date": "2026-08-08",
+    "date_display": "8 August 2026",
+    "category": "Criminal Law",
+    "title": "Sanction for Former Public Servants – Advocate Manish Jha",
+    "excerpt": "A Division Bench answers a criminal reference: the 2018 amendment to Section 19 PC Act protects retired public servants, but only where cognizance was yet to be taken as on 26 July 2018."
+  },
+  {
+    "slug": "maggi-food-safety-prosecutions-quashed-delhi-high-court.php",
+    "date": "2026-08-08",
+    "date_display": "8 August 2026",
+    "category": "Criminal Law",
+    "title": "Food Safety Cases: The Maggi Quashing – Advocate Manish Jha",
+    "excerpt": "The Delhi High Court quashed the 2015 Maggi noodles prosecutions after referral laboratory testing and a decade of judicial scrutiny discredited the analyst reports at their foundation."
+  },
+  {
+    "slug": "seat-venue-exclusive-jurisdiction-section-9-delhi-high-court.php",
+    "date": "2026-08-08",
+    "date_display": "8 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Seat, Venue and Section 9 Courts – Advocate Manish Jha",
+    "excerpt": "An exclusive jurisdiction clause in favour of Jaipur reduced Delhi to a mere venue, and a Section 9 petition for interim measures was dismissed at the threshold."
+  },
+  {
+    "slug": "succession-certificate-procedure-delhi-district-courts.php",
+    "date": "2026-08-08",
+    "date_display": "8 August 2026",
+    "category": "Procedure & Practice",
+    "title": "Succession Certificate in Delhi Courts – Advocate Manish Jha",
+    "excerpt": "What a succession certificate covers, where the petition is filed, and the stages between filing and grant in the Delhi district courts."
+  },
+  {
+    "slug": "non-signatory-arbitration-veritable-party-supreme-court.php",
+    "date": "2026-08-07",
+    "date_display": "7 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Non-Signatories and Arbitration: SC – Advocate Manish Jha",
+    "excerpt": "In KKH Finvest Pvt. Ltd. v. Ashiesh Shukla (2026 INSC 803), the Supreme Court holds that a consultant-shareholder who never signed the settlement was a veritable party to its arbitration clause, applying Cox and Kings."
+  },
+  {
+    "slug": "uapa-extension-order-not-appealable-nia-act-delhi-high-court.php",
+    "date": "2026-08-07",
+    "date_display": "7 August 2026",
+    "category": "Criminal Law",
+    "title": "UAPA Extension Orders: No Appeal Lies – Advocate Manish Jha",
+    "excerpt": "A Delhi High Court Division Bench holds that an order extending UAPA investigation time under Section 43D(2)(b) is interlocutory and not appealable under Section 21 NIA Act; the remedy is Section 482 CrPC / Section 528 BNSS."
+  },
+  {
+    "slug": "section-34-deposit-not-payment-ibc-clean-slate-delhi-high-court.php",
+    "date": "2026-08-07",
+    "date_display": "7 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "A Court Deposit Is Not Payment: Delhi HC – Advocate Manish Jha",
+    "excerpt": "A Section 34 stay deposit remains the depositor's asset. An award-holder that skipped the insolvency process saw its claim extinguished, and the Rs 5.52 crore deposit returned to the resolved company."
+  },
+  {
+    "slug": "advocate-conduct-court-premises-bar-council-supreme-court.php",
+    "date": "2026-08-07",
+    "date_display": "7 August 2026",
+    "category": "Procedure & Practice",
+    "title": "Conduct in Court and the Bar Council – Advocate Manish Jha",
+    "excerpt": "The Supreme Court confirms that State Bar Councils can take cognizance of indecent behaviour by an advocate inside court premises, while modifying a 21-year-old suspension to a warning."
+  },
+  {
+    "slug": "railway-compensation-untoward-incident-delhi-high-court.php",
+    "date": "2026-08-07",
+    "date_display": "7 August 2026",
+    "category": "Civil & Property",
+    "title": "Rail Passengers and Untoward Incidents – Advocate Manish Jha",
+    "excerpt": "The Delhi High Court upholds NHRC-recommended compensation against the Railways: a violent attack on a ticketed passenger inside a stationary compartment is an untoward incident under the Railways Act."
+  },
+  {
+    "slug": "acquittal-after-22-years-sole-eyewitness-supreme-court.php",
+    "date": "2026-08-06",
+    "date_display": "6 August 2026",
+    "category": "Criminal Law",
+    "title": "Acquittal After 22 Years in Prison – Advocate Manish Jha",
+    "excerpt": "In Arjun Jani @ Tuntun v. State of Orissa (Crl.A. 3639/2026, 4 August 2026), the Supreme Court acquits a man who spent twenty-two years in prison for a triple murder, holding that a sole eyewitness must inspire confidence and that jail appeals cannot be dismissed on delay alone."
+  },
+  {
+    "slug": "cheque-bounce-presumptions-revision-supreme-court.php",
+    "date": "2026-08-06",
+    "date_display": "6 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Cheque Bounce: Presumptions Prevail – Advocate Manish Jha",
+    "excerpt": "In Kuntegowda v. Thurubaiah (2026 INSC 790, 4 August 2026), the Supreme Court restores a Section 138 NI Act conviction, holding that an admitted signature triggers the statutory presumptions and that a High Court cannot re-appreciate evidence in revision against concurrent findings."
+  },
+  {
+    "slug": "recall-of-witness-order-18-rule-17-supreme-court.php",
+    "date": "2026-08-06",
+    "date_display": "6 August 2026",
+    "category": "Procedure & Practice",
+    "title": "Recalling a Witness: The SC Limits – Advocate Manish Jha",
+    "excerpt": "In K. Bharathamma v. Bandaru Sakku Bai (2026 INSC 795, 4 August 2026), the Supreme Court holds that Order XVIII Rule 17 CPC exists to clarify the court's doubts, not to fill gaps in evidence, and that absence of prejudice is no justification for reopening a closed record."
+  },
+  {
+    "slug": "motor-insurance-four-layer-supreme-court-directions.php",
+    "date": "2026-08-06",
+    "date_display": "6 August 2026",
+    "category": "Civil & Property",
+    "title": "Motor Insurance Overhaul by the SC – Advocate Manish Jha",
+    "excerpt": "In National Insurance Co. Ltd. v. Thungala Dhana Laxmi (2026 INSC 793, 4 August 2026), the Supreme Court holds that a comprehensive policy covers the owner travelling as a passenger and directs ANPR-VAHAN integration and longer third-party cover to tackle uninsured vehicles."
+  },
+  {
+    "slug": "breach-of-contract-not-cheating-supreme-court.php",
+    "date": "2026-08-05",
+    "date_display": "5 August 2026",
+    "category": "Criminal Law",
+    "title": "Breach of Contract Is Not Cheating: SC – Advocate Manish Jha",
+    "excerpt": "In G. Saminathan v. The State (2026 INSC 772, 31 July 2026), the Supreme Court quashes a cheating and criminal breach of trust case born of a failed joint development agreement, holding that dishonest intention must exist at the inception and that Sections 406 and 420 IPC cannot co-exist on the same facts."
+  },
+  {
+    "slug": "specific-performance-delay-readiness-supreme-court.php",
+    "date": "2026-08-05",
+    "date_display": "5 August 2026",
+    "category": "Civil & Property",
+    "title": "Specific Performance and Delay: SC – Advocate Manish Jha",
+    "excerpt": "In V.N.A.S. Chandran v. S. Venila (2026 INSC 776), the Supreme Court refuses specific performance of a 2004 sale agreement, holding that a buyer must prove continuous readiness and willingness and that a lapse of over two decades militates against the equitable relief."
+  },
+  {
+    "slug": "when-an-acquittal-stands-supreme-court-evidence.php",
+    "date": "2026-08-05",
+    "date_display": "5 August 2026",
+    "category": "Criminal Law",
+    "title": "When an Acquittal Stands: SC on Evidence – Advocate Manish Jha",
+    "excerpt": "In Nirmala Bai Devidas Chavhan v. State of Maharashtra (2026 INSC 787), the Supreme Court upholds the acquittal of twenty accused, explaining when identical testimony suggests tutoring, when medical evidence displaces ocular accounts, and how investigative lapses weigh."
+  },
+  {
+    "slug": "section-498a-live-in-relationships-supreme-court.php",
+    "date": "2026-08-04",
+    "date_display": "4 August 2026",
+    "category": "Criminal Law",
+    "title": "Section 498A and Live-In Relationships – Advocate Manish Jha",
+    "excerpt": "In Dr Lokesh B.H. v. State of Karnataka (3 August 2026), the Supreme Court holds that Section 498A IPC extends to live-in relationships in the nature of marriage between consenting adults, while mandating strict Arnesh Kumar safeguards."
+  },
+  {
+    "slug": "motor-accident-compensation-child-victims.php",
+    "date": "2026-08-04",
+    "date_display": "4 August 2026",
+    "category": "Civil & Property",
+    "title": "Accident Compensation for Child Victims – Advocate Manish Jha",
+    "excerpt": "The Supreme Court enhances a paraplegic child's motor accident award to Rs. 83.38 lakh, holding that functional disability, skilled-worker notional income and the multiplier of 18 govern claims for catastrophically injured children."
+  },
+  {
+    "slug": "adultery-plea-at-interim-maintenance-stage-125-crpc.php",
+    "date": "2026-08-04",
+    "date_display": "4 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Adultery Plea at Interim Maintenance Stage – Advocate Manish Jha",
+    "excerpt": "In Himanshu Chordia v. State of Rajasthan (31 July 2026), the Supreme Court holds that a Section 125(4) CrPC plea of adultery must be examined at the interim maintenance stage where the material ex facie establishes the disqualification."
+  },
+  {
+    "slug": "section-299-crpc-evidence-against-absconding-accused.php",
+    "date": "2026-08-04",
+    "date_display": "4 August 2026",
+    "category": "Criminal Law",
+    "title": "Evidence Against an Absconder: SC Limits – Advocate Manish Jha",
+    "excerpt": "Acquitting a man convicted of a 1999 murder, the Supreme Court holds that a deposition recorded in an absconder's absence is inadmissible against him unless a formal Section 299 CrPC order was passed at the time."
+  },
+  {
+    "slug": "ed-freezing-bank-accounts-reason-to-believe-pmla.php",
+    "date": "2026-08-03",
+    "date_display": "3 August 2026",
+    "category": "Cyber & Fraud",
+    "title": "Suspicion Is Not Reason to Believe: PMLA Freezing",
+    "excerpt": "The Supreme Court has dismissed the Enforcement Directorate's challenge to a Delhi High Court judgment holding that bank accounts cannot be frozen under the PMLA on mere suspicion, without the recorded reason to believe the statute requires."
+  },
+  {
+    "slug": "reach-stacker-not-motor-vehicle-mact-jurisdiction.php",
+    "date": "2026-08-03",
+    "date_display": "3 August 2026",
+    "category": "Civil & Property",
+    "title": "Reach Stacker Is Not a Motor Vehicle: MACT Limits",
+    "excerpt": "A reach stacker operating inside the custom-bonded Inland Container Depot at Tughlakabad is not a motor vehicle and depot roads are not a public place, the Supreme Court has held, restoring the Delhi MACT's rejection of the claim."
+  },
+  {
+    "slug": "limits-on-quashing-an-fir-supreme-court.php",
+    "date": "2026-08-03",
+    "date_display": "3 August 2026",
+    "category": "Criminal Law",
+    "title": "Limits on Quashing an FIR: Supreme Court – Advocate Manish Jha",
+    "excerpt": "Restoring quashed corruption FIRs in State of Karnataka v. Prabhu Shankar (30 July 2026), the Supreme Court reiterates that a High Court cannot conduct a mini-trial at the threshold: the only question is whether the FIR prima facie discloses a cognizable offence."
+  },
+  {
+    "slug": "property-in-a-wifes-name-and-succession.php",
+    "date": "2026-08-03",
+    "date_display": "3 August 2026",
+    "category": "Civil & Property",
+    "title": "Property in a Wife's Name and Succession – Advocate Manish Jha",
+    "excerpt": "In Shakuntala v. Robert Anthony (30 July 2026), the Supreme Court holds that property purchased in the names of the two wives devolved as each wife's own estate — Sections 35 and 38 of the Indian Succession Act, 1925 governed, not Section 33."
+  },
+  {
+    "slug": "appeal-or-revision-against-sessions-court-conviction.php",
+    "date": "2026-08-03",
+    "date_display": "3 August 2026",
+    "category": "Criminal Law",
+    "title": "Conviction in Appeal: Revision, Not Appeal",
+    "excerpt": "The Supreme Court has held that no appeal lies under Section 374 CrPC or Section 415 BNSS where a Sessions Court reverses an acquittal and convicts an accused for the first time. The remedy is criminal revision, to be examined with greater scrutiny."
+  },
+  {
+    "slug": "annual-enhancement-of-maintenance-delhi-high-court.php",
+    "date": "2026-08-03",
+    "date_display": "3 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Annual Rise in Maintenance Upheld",
+    "excerpt": "The Delhi High Court has upheld a five per cent yearly increase built into a Family Court maintenance order, holding it a lawful means of preserving the real value of the award against inflation."
+  },
+  {
+    "slug": "sanction-for-prosecution-section-19-prevention-of-corruption-act.php",
+    "date": "2026-08-03",
+    "date_display": "3 August 2026",
+    "category": "Criminal Law",
+    "title": "Review of Sanction Under Section 19 PC Act",
+    "excerpt": "A considered refusal of sanction to prosecute a public servant cannot be reopened on the same material. The Supreme Court declined to interfere with the quashing of a sanction granted after a reference from the Chief Minister's office, and imposed costs."
+  },
+  {
+    "slug": "parity-in-bail-delhi-high-court.php",
+    "date": "2026-08-03",
+    "date_display": "3 August 2026",
+    "category": "Criminal Law",
+    "title": "Parity in Bail: A Delhi High Court Order",
+    "excerpt": "An order of 31 July 2026 illustrates three considerations that most often decide a regular bail application: the role attributed to the applicant, the position of co-accused already released, and the stage the trial has reached."
+  },
+  {
+    "slug": "maintenance-application-delhi-family-courts-procedure.php",
+    "date": "2026-08-03",
+    "date_display": "3 August 2026",
+    "category": "Procedure & Practice",
+    "title": "Maintenance in Delhi Family Courts",
+    "excerpt": "A step by step account of how a maintenance application proceeds in the Family Courts of Delhi, from filing and the affidavit of assets through interim relief, evidence, the final order and enforcement."
+  }
 ]
