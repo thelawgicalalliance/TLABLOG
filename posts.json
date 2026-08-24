@@ -1,5 +1,181 @@
 [
   {
+    "slug": "compensation-orders-section-22-dv-act.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Compensation Orders under Section 22 of the DV Act",
+    "excerpt": "How compensation for mental torture and emotional distress is claimed under Section 22 of the DV Act, how it differs from monetary relief, and how Delhi courts fix quantum."
+  },
+  {
+    "slug": "breach-protection-order-section-31-dv-act.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Breach of a Protection Order: The Offence under Section 31 DV Act",
+    "excerpt": "Violation of a protection order is a cognizable, non-bailable offence. Ingredients, arrest and bail position, trial before the same Magistrate, and defences."
+  },
+  {
+    "slug": "date-from-which-maintenance-runs-arrears.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "From Which Date Does Maintenance Run? Effective Date and Arrears",
+    "excerpt": "Why maintenance is ordinarily awarded from the date of application, how arrears are computed and adjusted, and the one-year warrant rule under Section 144(3) BNSS."
+  },
+  {
+    "slug": "children-maintenance-144-bnss-26-hma-20-hama.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Maintenance of Children: Section 144 BNSS, Section 26 HMA and Section 20 HAMA",
+    "excerpt": "Three overlapping routes to a child's maintenance — who can claim under each, what happens at majority, and how Delhi courts treat education costs and unmarried daughters."
+  },
+  {
+    "slug": "cooling-off-period-mutual-consent-divorce-13b.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "The Cooling-Off Period in Mutual Consent Divorce under Section 13B HMA",
+    "excerpt": "The six to eighteen month window between the two motions: purpose, computation, waiver practice, and the pitfalls that surface between motions."
+  },
+  {
+    "slug": "foreign-divorce-decrees-recognition-section-13-cpc.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Matrimonial & Family",
+    "title": "Recognition of Foreign Divorce Decrees in India: The Section 13 CPC Framework",
+    "excerpt": "When India recognises a divorce granted abroad — the Section 13 CPC tests, why consent decrees travel well and unilateral ex parte decrees usually do not."
+  },
+  {
+    "slug": "undertrial-release-section-479-bnss.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Criminal Law",
+    "title": "Release of Undertrials under Section 479 BNSS: The Half and One-Third Rules",
+    "excerpt": "The statutory cap on undertrial detention — half the maximum sentence, one-third for first-time offenders — its exclusions, and how the entitlement is claimed."
+  },
+  {
+    "slug": "sureties-bail-bonds-delhi-courts.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Criminal Law",
+    "title": "Sureties and Bail Bonds: What Happens After Bail Is Granted",
+    "excerpt": "From bail order to release: bond execution, surety verification in Delhi courts, local surety conditions, discharge of sureties and the consequences of forfeiture."
+  },
+  {
+    "slug": "statutory-bars-anticipatory-bail.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Criminal Law",
+    "title": "Statutory Bars on Anticipatory Bail: Where Section 482 BNSS Does Not Reach",
+    "excerpt": "The offences excluded from anticipatory bail — Section 482(4) BNSS, the SC/ST Act bar and the UAPA — and the remedies that remain when the door is shut."
+  },
+  {
+    "slug": "anticipatory-bail-or-quashing-choice.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Criminal Law",
+    "title": "Anticipatory Bail or Quashing: Choosing the Remedy When an FIR Surfaces",
+    "excerpt": "One remedy protects the person, the other attacks the case — how the two are compared, sequenced and combined in Delhi practice."
+  },
+  {
+    "slug": "executing-msefc-award-delhi.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Executing an MSEFC Award: From Samadhaan Order to Recovery",
+    "excerpt": "How an MSME supplier enforces a Facilitation Council award — execution as an arbitral award, compound interest, and the 75 per cent pre-deposit shield against challenges."
+  },
+  {
+    "slug": "msme-dues-disclosure-section-22-23-msmed.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Delayed Payments to MSMEs: The Disclosure and Tax Consequences for Buyers",
+    "excerpt": "Sections 22 and 23 MSMED Act make delay visible and expensive — audited-accounts disclosure, MSME Form-1 returns, and interest that income tax law refuses to deduct."
+  },
+  {
+    "slug": "commercial-appeals-section-13-commercial-courts-act.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Appeals under Section 13 of the Commercial Courts Act: The Narrow Gate",
+    "excerpt": "Which judgments and orders of commercial courts are appealable, the sixty-day limitation, the Order XLIII filter and the bar on all other appeals."
+  },
+  {
+    "slug": "costs-in-commercial-suits-section-35-cpc.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Costs in Commercial Suits: The Loser-Pays Regime under Section 35 CPC",
+    "excerpt": "The costs-follow-the-event rule in commercial disputes, conduct-based orders, settlement-offer consequences, and how to build a costs record from day one."
+  },
+  {
+    "slug": "pocso-victim-compensation-rules-2020.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Criminal Law",
+    "title": "Victim Compensation in POCSO Cases: Section 33(8) and Rule 9 Explained",
+    "excerpt": "Interim compensation, special relief and final awards for child victims — the criteria Special Courts apply and how amounts are disbursed in Delhi."
+  },
+  {
+    "slug": "pocso-trial-timelines-sections-28-35.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Criminal Law",
+    "title": "Timelines in POCSO Trials: Sections 28 and 35 and the One-Year Discipline",
+    "excerpt": "Child evidence within thirty days of cognizance and trial within a year — how the POCSO clocks work, why they slip, and what delay means for bail and strategy."
+  },
+  {
+    "slug": "stay-of-money-decree-first-appeal-order-41-rule-5.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Procedure & Practice",
+    "title": "Stay of Execution in First Appeals: Order 41 Rule 5 and the Deposit Question",
+    "excerpt": "An appeal does not stay the decree — the three-part test for stay, the deposit discipline for money decrees, and how stay applications are conditioned in Delhi."
+  },
+  {
+    "slug": "fao-appealable-orders-order-43-cpc.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Procedure & Practice",
+    "title": "First Appeals from Orders: The Section 104 and Order 43 Catalogue",
+    "excerpt": "The closed list of appealable orders, forum and limitation for an FAO in Delhi, and how Section 105 preserves objections to everything outside the list."
+  },
+  {
+    "slug": "caveats-supreme-court-section-148a.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Procedure & Practice",
+    "title": "Caveats in the Supreme Court: Guarding Against Ex Parte Orders in Expected SLPs",
+    "excerpt": "How a caveat prevents unheard interim orders in an expected SLP — the Section 148A principle, Supreme Court practice, drafting and the ninety-day renewal cycle."
+  },
+  {
+    "slug": "supreme-court-registry-defects-refiling.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Procedure & Practice",
+    "title": "Registry Defects and Refiling in the Supreme Court: From Diary Number to Registration",
+    "excerpt": "What the Registry scrutinises under the Supreme Court Rules, 2013, the defects that recur in SLP filings, and why refiling delay is taken seriously."
+  },
+  {
+    "slug": "section-21-notice-commencement-arbitration.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "The Section 21 Notice: Commencing Arbitration Correctly",
+    "excerpt": "The invocation notice fixes limitation, defines the reference and activates appointment — what a sound notice contains and the errors that surface years later."
+  },
+  {
+    "slug": "enforcement-foreign-awards-sections-44-49.php",
+    "date": "2026-08-24",
+    "date_display": "24 August 2026",
+    "category": "Commercial & Corporate",
+    "title": "Enforcing Foreign Arbitral Awards in India: Sections 44 to 49 Explained",
+    "excerpt": "What qualifies as a foreign award, the Section 47 documents, the narrow Section 48 defences and the deemed-decree effect that leads straight to execution."
+  },
+  {
     "slug": "bail-refused-wife-murder-septic-tank-delhi-high-court.php",
     "date": "2026-08-23",
     "date_display": "23 August 2026",
