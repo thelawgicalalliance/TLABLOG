@@ -1,0 +1,49 @@
+<?php
+$P = [
+  'slug'         => 'anticipatory-bail-juveniles-jj-act.php',
+  'title'        => 'Anticipatory Bail for Juveniles – Advocate Manish Jha',
+  'meta'         => 'Can a child in conflict with law seek anticipatory bail? The JJ Act 2015 scheme, Section 12 bail rule, divergent High Court views, and practical routes.',
+  'h1'           => 'Can a Juvenile Seek Anticipatory Bail? The JJ Act Question',
+  'crumb'        => 'Juvenile Anticipatory Bail',
+  'kicker'       => 'Practice Explainer · Criminal Law',
+  'sub'          => 'The Juvenile Justice Act treats a child in conflict with law as a person to be apprehended and protected, not arrested, which makes the maintainability of anticipatory bail a genuinely debated question.',
+  'date'         => '2026-09-15',
+  'date_display' => '15 September 2026',
+  'category'     => 'Criminal Law',
+  'lead'         => '<p class="lead">Anticipatory bail under Section 482 of the BNSS (earlier Section 438 CrPC) protects a person who apprehends arrest in a non-bailable case. But the Juvenile Justice (Care and Protection of Children) Act 2015 says a child in conflict with law is never "arrested" in the ordinary sense at all: the child is apprehended and produced before the Juvenile Justice Board, and Section 12 makes bail the rule. Whether a juvenile who fears apprehension can nonetheless move for anticipatory bail is a question on which High Courts have taken divergent views. This article maps the statutory scheme and both lines of reasoning.</p>',
+  'related'      => ['bail-lawyer-in-delhi.php' => 'Bail Matters', 'criminal-law.php' => 'Criminal Law', 'delhi-high-court.php' => 'Delhi High Court'],
+  'faqs'         => [
+    ['Is a juvenile ever arrested like an adult accused?', 'No. Under the JJ Act 2015 a child alleged to be in conflict with law is apprehended, not arrested in the ordinary sense. Section 10 requires that the child be placed in the charge of the special juvenile police unit or a designated child welfare police officer and produced before the Juvenile Justice Board within twenty-four hours. The child cannot be lodged in a police lock-up or jail at any stage.'],
+    ['Does the category of offence affect a juvenile\'s bail?', 'For bail under Section 12 it does not. A child is to be released on bail whether the offence is bailable or non-bailable. Bail may be refused only where release would likely bring the child into association with known criminals, expose the child to moral, physical or psychological danger, or defeat the ends of justice, and even then the child goes to an observation home or place of safety, not jail.'],
+    ['Can a person claim juvenility after the case has progressed?', 'Yes. The JJ Act permits a claim of juvenility to be raised before any court, at any stage of the proceedings, and the question is then decided by an inquiry into age. If the person is found to have been a child on the date of the offence, the protective scheme of the Act applies, whatever the stage the case has reached.'],
+    ['What should be done if the police treat a minor as an adult?', 'The age question should be raised at the earliest, with school records, the birth certificate or other recognised proof of age placed before the Board or the court. The Juvenile Justice Board can be moved directly, and the High Court can be approached for appropriate directions to ensure the child is dealt with under the JJ Act and not under the ordinary process meant for adults.'],
+  ],
+  'sources'      => [],
+];
+$BODY = <<<'HTML'
+<h2>The JJ Act scheme: apprehension, not arrest</h2>
+<p>The Juvenile Justice (Care and Protection of Children) Act 2015 builds a self-contained, protective procedure for a child alleged to be in conflict with law. Section 10 provides that when such a child is apprehended, the child is to be placed forthwith in the charge of the special juvenile police unit or the designated child welfare police officer, and produced before the Juvenile Justice Board within twenty-four hours. The child is not to be kept in a police lock-up or lodged in jail. The vocabulary itself is deliberate: the statute speaks of apprehension and production, not arrest and remand.</p>
+<p>Section 12 then makes bail the rule. A child apprehended for any offence, whether bailable or non-bailable, is to be released on bail with or without surety, or placed under the supervision of a probation officer or the care of a fit person. Release may be declined only on narrow statutory grounds: where there are reasonable grounds to believe that release would bring the child into association with any known criminal, expose the child to moral, physical or psychological danger, or defeat the ends of justice. Even a child not released is sent to an observation home or place of safety, never to jail.</p>
+
+<h2>Where anticipatory bail fits, and why it is debated</h2>
+<p>Anticipatory bail under Section 482 BNSS (earlier Section 438 CrPC) presupposes an apprehension of arrest on an accusation of a non-bailable offence. The juvenile context strains both limbs: a child is apprehended rather than arrested, and the bailable or non-bailable character of the offence is irrelevant to the child. High Courts have accordingly divided on whether an anticipatory bail application at the instance of a juvenile is maintainable at all, and no single view can presently be stated as the settled law of the land.</p>
+<div class="tiles">
+  <div class="tile"><strong>View one: the JJ Act is a complete code.</strong> On this reasoning, the Act comprehensively governs every stage from apprehension to release. Since a child cannot be arrested, cannot be sent to police custody or jail, and enjoys a statutory rule of bail regardless of the offence, the apprehension of arrest that anticipates Section 482 BNSS never truly arises. Anticipatory bail is therefore unnecessary, and permitting it would bypass the specialised machinery of the Board that the legislature created for children.</div>
+  <div class="tile"><strong>View two: the protective jurisdiction is not excluded.</strong> The competing reasoning notes that the JJ Act contains no express bar on anticipatory bail, and that apprehension itself, however styled, is a restraint on liberty that can harm a child, especially before the machinery of the Act is engaged. At the pre-apprehension stage the Board is not yet in the picture, so the wider protective jurisdiction of the Sessions Court and the High Court remains available to prevent an unnecessary deprivation of liberty, with the JJ Act taking over once the child is produced.</div>
+</div>
+<div class="note"><p>Because the field is divided, the practical position depends on the view prevailing in the concerned High Court. Counsel advising in a specific matter must check the current position in that jurisdiction before choosing the forum, since maintainability itself may be contested at the threshold.</p></div>
+
+<h2>Practical routes that are always open</h2>
+<p>Whatever view a particular High Court takes on maintainability, several protective routes do not depend on Section 482 BNSS at all:</p>
+<div class="flow">
+  <div class="fstep"><strong>Move the Juvenile Justice Board.</strong> The Board is the natural forum for a child. Once the child is produced, or even in anticipation of production, the Board can be requested to deal with the child strictly under Sections 10 and 12, release the child on bail, and regulate how the child joins the inquiry.</div>
+  <div class="fstep"><strong>Seek directions from the High Court.</strong> Where there is a real risk that a minor will be treated as an adult, detained in a lock-up, or handled outside the JJ Act, the High Court can be approached for directions ensuring compliance with the statutory scheme, without the application being framed as one for anticipatory bail.</div>
+  <div class="fstep"><strong>Raise the claim of juvenility.</strong> The Act permits a claim of juvenility to be raised before any court at any stage, even after the case has substantially progressed. Once juvenility is established, the protective scheme applies and the matter stands transferred to the track meant for children.</div>
+</div>
+
+<h2>Why age determination is the real battleground</h2>
+<p>Every protection described above hinges on a single factual question: was the person a child, that is below eighteen years, on the date of the offence. The Act and the rules framed under it prescribe a hierarchy of age proof, giving primacy to matriculation or equivalent certificates and birth certificates from the school first attended or issued by the municipal authority, with medical age estimation as the fallback where documents are unavailable. Disputes over age are common, and the benefit of the protective scheme can be won or lost on the quality of the age evidence assembled at the earliest stage. A family that anticipates apprehension of a minor should therefore gather the birth certificate, school admission records and matriculation documents immediately, since these papers decide whether the case travels to the Juvenile Justice Board or into the ordinary criminal process.</p>
+<p>The larger point is that the anticipatory bail debate, interesting as it is, should not distract from the working reality: for a child, the JJ Act itself is the strongest shield. Bail is the statutory rule under Section 12, jail is excluded altogether, and the narrow exceptions are focused on the welfare of the child rather than the gravity of the offence. The contested question is only about the additional, pre-apprehension layer of protection, and on that, until an authoritative resolution, the answer varies with the High Court concerned.</p>
+<p>This article is for general information only and is not legal advice or a solicitation.</p>
+HTML;
+include __DIR__ . '/post-layout.php';
